@@ -1,4 +1,4 @@
 interface:
   display_name: "HD2D实机图工作流"
-  short_description: "生成正向机位的武侠实机风格图，按宇文逸像素小人统一路人画风与场景光照"
-  default_prompt: "用 $hd2d-gameplay-stills 生成一张黄昏的江南镖局，让镖师和宇文逸的像素画风一致，窗光落到街面。"
+  short_description: "从双游戏图库按地貌和场所选参考，生成同机位实机风格图并按场景安排人物"
+  default_prompt: "用 $hd2d-gameplay-stills 生成一处雪山驿站的昼暮夜效果图，按场景活动决定谁入镜。"

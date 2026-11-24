@@ -1,0 +1,6007 @@
+{
+ "scope": "城镇、门派与村落的室外区域，以及两款作品的世界地图。八方采用第二代。",
+ "coverage": "每个地点的素材类型、原始尺寸和已拼街段各自记录。同一地点的不同分区通过路线图展示位置关系。所有街巷及每个角落的原貌连续覆盖尚未验证。",
+ "towns": [
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "无人村",
+   "file": "八方旅人Ⅱ/城镇/无人村/城镇总览.jpg",
+   "width": 1856,
+   "height": 1478,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/无人村/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/无人村/拼接/林中村道-1080p.png"
+   ],
+   "note": "",
+   "route": "西侧连新德尔斯塔平原，东侧通往里菲亚山的山道。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "兽人村",
+   "file": "八方旅人Ⅱ/城镇/兽人村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2328,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/兽人村/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/兽人村/拼接/街区-p021-2.png",
+    "八方旅人Ⅱ/城镇/兽人村/拼接/村落夕照-1080p.png",
+    "八方旅人Ⅱ/城镇/兽人村/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "卡纳尔布来因",
+   "file": "八方旅人Ⅱ/城镇/卡纳尔布来因/城镇总览.jpg",
+   "width": 1856,
+   "height": 2248,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/卡纳尔布来因/街景/城镇-昼.jpg",
+    "八方旅人Ⅱ/城镇/卡纳尔布来因/街景/城镇-夜.jpg",
+    "八方旅人Ⅱ/城镇/卡纳尔布来因/拼接/运河码头-1080p.png",
+    "八方旅人Ⅱ/城镇/卡纳尔布来因/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "寒岬村",
+   "file": "八方旅人Ⅱ/城镇/寒岬村/城镇总览.jpg",
+   "width": 1856,
+   "height": 1793,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/寒岬村/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/寒岬村/拼接/街区-p025-2.png",
+    "八方旅人Ⅱ/城镇/寒岬村/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "轮敦",
+   "file": "八方旅人Ⅱ/城镇/轮敦/城镇总览.jpg",
+   "width": 1856,
+   "height": 2558,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/轮敦/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/轮敦/街景/工厂街-夜.jpg",
+    "八方旅人Ⅱ/城镇/轮敦/拼接/街区-p049-1.png",
+    "八方旅人Ⅱ/城镇/轮敦/拼接/街区-攻略截图拼接.png",
+    "八方旅人Ⅱ/城镇/轮敦/拼接/城中阶梯-1080p.png",
+    "八方旅人Ⅱ/城镇/轮敦/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "主街向北通往工厂街。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "康宁湾",
+   "file": "八方旅人Ⅱ/城镇/康宁湾/城镇总览.jpg",
+   "width": 1856,
+   "height": 2707,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/康宁湾/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/康宁湾/街景/港口-实景.jpg",
+    "八方旅人Ⅱ/城镇/康宁湾/街景/郊外-实景.jpg",
+    "八方旅人Ⅱ/城镇/康宁湾/拼接/街区-p043-1.png",
+    "八方旅人Ⅱ/城镇/康宁湾/拼接/街区夜景-1080p.png",
+    "八方旅人Ⅱ/城镇/康宁湾/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "从镇中心向西北可到港口，向东可到郊外。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "克拉克雷吉",
+   "file": "八方旅人Ⅱ/城镇/克拉克雷吉/城镇总览.jpg",
+   "width": 1856,
+   "height": 2379,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/克拉克雷吉/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/克拉克雷吉/拼接/街区-攻略截图拼接.png",
+    "八方旅人Ⅱ/城镇/克拉克雷吉/拼接/山城夜街-1080p.png",
+    "八方旅人Ⅱ/城镇/克拉克雷吉/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "库罗普提尔",
+   "file": "八方旅人Ⅱ/城镇/库罗普提尔/城镇总览.jpg",
+   "width": 1856,
+   "height": 2169,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/库罗普提尔/街景/城镇-昼.jpg",
+    "八方旅人Ⅱ/城镇/库罗普提尔/街景/城镇-夜.jpg",
+    "八方旅人Ⅱ/城镇/库罗普提尔/拼接/街区-攻略截图拼接.png",
+    "八方旅人Ⅱ/城镇/库罗普提尔/拼接/村中街区-1080p.png",
+    "八方旅人Ⅱ/城镇/库罗普提尔/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "弗拉姆教堂村",
+   "file": "八方旅人Ⅱ/城镇/弗拉姆教堂村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2353,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/弗拉姆教堂村/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/弗拉姆教堂村/街景/大圣堂入口-实景.jpg",
+    "八方旅人Ⅱ/城镇/弗拉姆教堂村/拼接/街区-p024-2.png",
+    "八方旅人Ⅱ/城镇/弗拉姆教堂村/拼接/村中主街-1080p.png",
+    "八方旅人Ⅱ/城镇/弗拉姆教堂村/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "从村内向北，经巡礼路到大圣堂入口。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "格拉维尔",
+   "file": "八方旅人Ⅱ/城镇/格拉维尔/城镇总览.jpg",
+   "width": 1856,
+   "height": 2274,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/格拉维尔/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/格拉维尔/拼接/街区-p079-1.png",
+    "八方旅人Ⅱ/城镇/格拉维尔/拼接/街道与阶梯-1080p.png",
+    "八方旅人Ⅱ/城镇/格拉维尔/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "库国",
+   "file": "八方旅人Ⅱ/城镇/库国/城镇总览.jpg",
+   "width": 1856,
+   "height": 2092,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/库国/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/库国/街景/库城入口-实景.jpg",
+    "八方旅人Ⅱ/城镇/库国/拼接/街区-p102-3.png",
+    "八方旅人Ⅱ/城镇/库国/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "城下町向北通往朱玄城前。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "遗种镇",
+   "file": "八方旅人Ⅱ/城镇/遗种镇/城镇总览.jpg",
+   "width": 1856,
+   "height": 1926,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/遗种镇/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/遗种镇/拼接/城镇街道-720p.png",
+    "八方旅人Ⅱ/城镇/遗种镇/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/城镇总览.jpg",
+   "width": 1856,
+   "height": 2407,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/梅林希尔斯/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/梅林希尔斯/街景/祭坛前-实景.jpg",
+    "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/街区-p103-1.png",
+    "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/街区-p103-2.png",
+    "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/街区-攻略截图拼接.png",
+    "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/祭坛前-攻略截图拼接.png",
+    "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/山城主街-1080p.png",
+    "八方旅人Ⅱ/城镇/梅林希尔斯/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "主街向北通往祭坛前。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "蒙特维斯",
+   "file": "八方旅人Ⅱ/城镇/蒙特维斯/城镇总览.jpg",
+   "width": 1856,
+   "height": 2194,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/蒙特维斯/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/蒙特维斯/拼接/街区-p039-1.png",
+    "八方旅人Ⅱ/城镇/蒙特维斯/拼接/城镇石阶-1080p.png",
+    "八方旅人Ⅱ/城镇/蒙特维斯/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "无名之乡",
+   "file": "八方旅人Ⅱ/城镇/无名之乡/城镇总览.jpg",
+   "width": 1856,
+   "height": 2529,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/无名之乡/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/无名之乡/拼接/街区-p093-1.png",
+    "八方旅人Ⅱ/城镇/无名之乡/拼接/街区-p093-3.png",
+    "八方旅人Ⅱ/城镇/无名之乡/拼接/街区-攻略截图拼接.png",
+    "八方旅人Ⅱ/城镇/无名之乡/拼接/林间聚落-1080p.png",
+    "八方旅人Ⅱ/城镇/无名之乡/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/城镇总览.jpg",
+   "width": 1856,
+   "height": 2352,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/新德尔斯塔/街景/城镇-昼.jpg",
+    "八方旅人Ⅱ/城镇/新德尔斯塔/街景/城镇-夜.jpg",
+    "八方旅人Ⅱ/城镇/新德尔斯塔/街景/小道-实景.jpg",
+    "八方旅人Ⅱ/城镇/新德尔斯塔/拼接/街区-p023-1.png",
+    "八方旅人Ⅱ/城镇/新德尔斯塔/拼接/小道-攻略截图拼接.png",
+    "八方旅人Ⅱ/城镇/新德尔斯塔/拼接/主街建筑立面-1080p.png",
+    "八方旅人Ⅱ/城镇/新德尔斯塔/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "主街向西通往小道。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "欧兹拉修",
+   "file": "八方旅人Ⅱ/城镇/欧兹拉修/城镇总览.jpg",
+   "width": 1856,
+   "height": 2285,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/欧兹拉修/街景/城镇-昼.jpg",
+    "八方旅人Ⅱ/城镇/欧兹拉修/街景/城镇-夜.jpg",
+    "八方旅人Ⅱ/城镇/欧兹拉修/街景/铸造所街区-夜.jpg",
+    "八方旅人Ⅱ/城镇/欧兹拉修/拼接/城镇夜景-1080p.png",
+    "八方旅人Ⅱ/城镇/欧兹拉修/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "主街向北通往铸造所街区。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "洛克岛",
+   "file": "八方旅人Ⅱ/城镇/洛克岛/城镇总览.jpg",
+   "width": 1856,
+   "height": 2137,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/洛克岛/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/洛克岛/街景/总部门前-实景.jpg",
+    "八方旅人Ⅱ/城镇/洛克岛/街景/码头.jpg",
+    "八方旅人Ⅱ/城镇/洛克岛/拼接/街头夜景-1080p.png",
+    "八方旅人Ⅱ/城镇/洛克岛/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "主街向北通往总部门前，东西两侧通往码头。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "沙粒之村的驿站",
+   "file": "八方旅人Ⅱ/城镇/沙粒之村的驿站/城镇总览.jpg",
+   "width": 1856,
+   "height": 1281,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/沙粒之村的驿站/街景/城镇-昼.jpg",
+    "八方旅人Ⅱ/城镇/沙粒之村的驿站/街景/城镇-夜.jpg",
+    "八方旅人Ⅱ/城镇/沙粒之村的驿站/拼接/街区-p015-2.png"
+   ],
+   "note": "",
+   "route": "驿站北侧的出口连接北沙粒大道。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "塞伊",
+   "file": "八方旅人Ⅱ/城镇/塞伊/城镇总览.jpg",
+   "width": 1856,
+   "height": 2109,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/塞伊/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/塞伊/街景/东区-实景.jpg",
+    "八方旅人Ⅱ/城镇/塞伊/拼接/街区-p045-1.png",
+    "八方旅人Ⅱ/城镇/塞伊/拼接/夜间街道-1080p.png",
+    "八方旅人Ⅱ/城镇/塞伊/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "主街向东通往东区。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "斯托姆黑伊鲁",
+   "file": "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/城镇总览.jpg",
+   "width": 1856,
+   "height": 2290,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/街景/桥上-实景.jpg",
+    "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/拼接/街区-p085-1.png",
+    "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/拼接/雪中城街-1080p.png",
+    "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "从镇中心向西北可到桥上。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "汀巴雷因",
+   "file": "八方旅人Ⅱ/城镇/汀巴雷因/城镇总览.jpg",
+   "width": 1856,
+   "height": 2180,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/汀巴雷因/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/汀巴雷因/街景/城前广场-实景.jpg",
+    "八方旅人Ⅱ/城镇/汀巴雷因/拼接/街区-p083-1.png",
+    "八方旅人Ⅱ/城镇/汀巴雷因/拼接/街区-p083-4.png",
+    "八方旅人Ⅱ/城镇/汀巴雷因/拼接/城前广场与喷泉-1080p.png",
+    "八方旅人Ⅱ/城镇/汀巴雷因/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "从镇中心向北可到城前广场。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "特洛甫霍普",
+   "file": "八方旅人Ⅱ/城镇/特洛甫霍普/城镇总览.jpg",
+   "width": 1856,
+   "height": 2753,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/特洛甫霍普/街景/城镇-昼.jpg",
+    "八方旅人Ⅱ/城镇/特洛甫霍普/街景/水上剧场-实景.jpg",
+    "八方旅人Ⅱ/城镇/特洛甫霍普/街景/造船厂-实景.jpg",
+    "八方旅人Ⅱ/城镇/特洛甫霍普/拼接/街区-p022-1.png",
+    "八方旅人Ⅱ/城镇/特洛甫霍普/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "主街向北到水上剧场，向东到造船厂。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "威尔格罗布",
+   "file": "八方旅人Ⅱ/城镇/威尔格罗布/城镇总览.jpg",
+   "width": 1856,
+   "height": 2293,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/威尔格罗布/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/威尔格罗布/拼接/街区-p067-1.png",
+    "八方旅人Ⅱ/城镇/威尔格罗布/拼接/石阶与街市-1080p.png",
+    "八方旅人Ⅱ/城镇/威尔格罗布/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "凛芬镇",
+   "file": "八方旅人Ⅱ/城镇/凛芬镇/城镇总览.jpg",
+   "width": 1856,
+   "height": 2175,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/凛芬镇/街景/城镇-实景.jpg",
+    "八方旅人Ⅱ/城镇/凛芬镇/街景/盗贼街-昼.jpg",
+    "八方旅人Ⅱ/城镇/凛芬镇/拼接/街区-p034-2.png",
+    "八方旅人Ⅱ/城镇/凛芬镇/拼接/雪中街市-1080p.png",
+    "八方旅人Ⅱ/城镇/凛芬镇/方位图/城镇路线图.png"
+   ],
+   "note": "",
+   "route": "镇中心向北通往盗贼街。"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/城镇总览.jpg",
+   "width": 1856,
+   "height": 2222,
+   "status": "已拼街段",
+   "assets": [
+    "八方旅人Ⅱ/城镇/弗里吉特监狱岛/街景/采矿场-实景.jpg",
+    "八方旅人Ⅱ/城镇/弗里吉特监狱岛/街景/院子-实景.jpg",
+    "八方旅人Ⅱ/城镇/弗里吉特监狱岛/拼接/街区-p133-1.png",
+    "八方旅人Ⅱ/城镇/弗里吉特监狱岛/拼接/街区-p133-3.png",
+    "八方旅人Ⅱ/城镇/弗里吉特监狱岛/街景/码头.jpg",
+    "八方旅人Ⅱ/城镇/弗里吉特监狱岛/拼接/积雪院落-1080p.png",
+    "八方旅人Ⅱ/城镇/弗里吉特监狱岛/方位图/城镇路线图.png"
+   ],
+   "note": "路线图仅覆盖停泊处。",
+   "route": "从院子向东到采矿场。码头单独列图。"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "梧桐村",
+   "file": "逸剑风云决/城镇/梧桐村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2090,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/梧桐村/方位参考.png",
+    "逸剑风云决/城镇/梧桐村/街景/街景.jpg",
+    "逸剑风云决/城镇/梧桐村/拼接/街区-p001-3.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "洛村",
+   "file": "逸剑风云决/城镇/洛村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2155,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/洛村/方位参考.png",
+    "逸剑风云决/城镇/洛村/街景/街景.jpg",
+    "逸剑风云决/城镇/洛村/街景/城内街景.png",
+    "逸剑风云决/城镇/洛村/拼接/村内菜畦-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "平康城",
+   "file": "逸剑风云决/城镇/平康城/城镇总览.jpg",
+   "width": 1856,
+   "height": 2102,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/平康城/方位参考.png",
+    "逸剑风云决/城镇/平康城/街景/街景.jpg",
+    "逸剑风云决/城镇/平康城/拼接/街区-p004-1.png",
+    "逸剑风云决/城镇/平康城/拼接/街区-p004-2.png",
+    "逸剑风云决/城镇/平康城/街景/北街李府门前.jpg",
+    "逸剑风云决/城镇/平康城/拼接/北街李府前长巷-街段.png"
+   ],
+   "note": "北街收录李府门前的实机视角。",
+   "route": "主城与北街分别收图，北街街景可辨认李府门前的牌匾。"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "武当派",
+   "file": "逸剑风云决/城镇/武当派/城镇总览.jpg",
+   "width": 1856,
+   "height": 2088,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/武当派/方位参考.png",
+    "逸剑风云决/城镇/武当派/街景/街景.jpg",
+    "逸剑风云决/城镇/武当派/街景/夜间.jpg",
+    "逸剑风云决/城镇/武当派/拼接/街区-p012-1.png",
+    "逸剑风云决/城镇/武当派/拼接/夜间-p013-1.png",
+    "逸剑风云决/城镇/武当派/拼接/山门广场-wudang-1.png"
+   ],
+   "note": "已收山门广场和夜间街段。",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "清河村",
+   "file": "逸剑风云决/城镇/清河村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2348,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/清河村/方位参考.png",
+    "逸剑风云决/城镇/清河村/街景/街景.jpg",
+    "逸剑风云决/城镇/清河村/拼接/村口沿路-1080p.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "千陵渡",
+   "file": "逸剑风云决/城镇/千陵渡/城镇总览.jpg",
+   "width": 1856,
+   "height": 2122,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/千陵渡/方位参考.png",
+    "逸剑风云决/城镇/千陵渡/街景/街景.jpg",
+    "逸剑风云决/城镇/千陵渡/拼接/渡口聚落-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "六扇门",
+   "file": "逸剑风云决/城镇/六扇门/城镇总览.jpg",
+   "width": 1856,
+   "height": 1614,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/六扇门/方位参考.png",
+    "逸剑风云决/城镇/六扇门/街景/府衙前庭.jpg",
+    "逸剑风云决/城镇/六扇门/拼接/衙署外院至练武场.png"
+   ],
+   "note": "前庭截帧裁去右侧主播立绘。",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天剑宗",
+   "file": "逸剑风云决/城镇/天剑宗/城镇总览.jpg",
+   "width": 1856,
+   "height": 2103,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/天剑宗/方位参考.png",
+    "逸剑风云决/城镇/天剑宗/街景/街景.jpg",
+    "逸剑风云决/城镇/天剑宗/拼接/街区-p041-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "阎浮镇",
+   "file": "逸剑风云决/城镇/阎浮镇/城镇总览.jpg",
+   "width": 1856,
+   "height": 2090,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/阎浮镇/方位参考.png",
+    "逸剑风云决/城镇/阎浮镇/街景/街景.jpg",
+    "逸剑风云决/城镇/阎浮镇/拼接/街区-p010-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "少林寺",
+   "file": "逸剑风云决/城镇/少林寺/城镇总览.jpg",
+   "width": 1856,
+   "height": 2090,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/少林寺/方位参考.png",
+    "逸剑风云决/城镇/少林寺/街景/街景.jpg",
+    "逸剑风云决/城镇/少林寺/拼接/街区-p026-1.png",
+    "逸剑风云决/城镇/少林寺/拼接/街区-p026-3.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "青木舫",
+   "file": "逸剑风云决/城镇/青木舫/城镇总览.jpg",
+   "width": 1856,
+   "height": 2088,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/青木舫/方位参考.png",
+    "逸剑风云决/城镇/青木舫/街景/街景.jpg",
+    "逸剑风云决/城镇/青木舫/拼接/街区-p021-2.png",
+    "逸剑风云决/城镇/青木舫/拼接/街区-p021-3.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "file": "逸剑风云决/城镇/姑苏城/城镇总览.jpg",
+   "width": 1856,
+   "height": 2127,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/姑苏城/方位参考.png",
+    "逸剑风云决/城镇/姑苏城/夜间方位参考.png",
+    "逸剑风云决/城镇/姑苏城/街景/街景.jpg",
+    "逸剑风云决/城镇/姑苏城/街景/雨夜.jpg",
+    "逸剑风云决/城镇/姑苏城/街景/灯会.jpg",
+    "逸剑风云决/城镇/姑苏城/拼接/街区-p018-1.png",
+    "逸剑风云决/城镇/姑苏城/拼接/街区-p018-2.png",
+    "逸剑风云决/城镇/姑苏城/拼接/雨夜-p019-1.png",
+    "逸剑风云决/城镇/姑苏城/拼接/灯会-p020-1.png",
+    "逸剑风云决/城镇/姑苏城/拼接/姑苏城-河埠至擂台长卷.png",
+    "逸剑风云决/城镇/姑苏城/街景/日间街口-1080p.jpg",
+    "逸剑风云决/城镇/姑苏城/街景/雨夜街区-1080p.jpg"
+   ],
+   "note": "开发版演示录像覆盖河埠至擂台，未覆盖全城边界。",
+   "route": "河埠、石桥、市街和擂台在长卷中连续可见。雨夜与灯会另列分图。"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "file": "逸剑风云决/城镇/名剑山庄/城镇总览.jpg",
+   "width": 1856,
+   "height": 2564,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/名剑山庄/方位参考.png",
+    "逸剑风云决/城镇/名剑山庄/街景/街景.jpg",
+    "逸剑风云决/城镇/名剑山庄/街景/黄昏.jpg",
+    "逸剑风云决/城镇/名剑山庄/街景/夜间.jpg",
+    "逸剑风云决/城镇/名剑山庄/拼接/街区-p053-1.png",
+    "逸剑风云决/城镇/名剑山庄/拼接/街区-p053-2.png",
+    "逸剑风云决/城镇/名剑山庄/拼接/黄昏-p054-1.png",
+    "逸剑风云决/城镇/名剑山庄/拼接/夜间-p055-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "威远镖局",
+   "file": "逸剑风云决/城镇/威远镖局/城镇总览.jpg",
+   "width": 1856,
+   "height": 2114,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/威远镖局/方位参考.png",
+    "逸剑风云决/城镇/威远镖局/街景/街景.jpg",
+    "逸剑风云决/城镇/威远镖局/拼接/镖局外院.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "双河村",
+   "file": "逸剑风云决/城镇/双河村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2182,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/双河村/方位参考.png",
+    "逸剑风云决/城镇/双河村/街景/街景.jpg",
+    "逸剑风云决/城镇/双河村/拼接/村口街巷-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "雷家村",
+   "file": "逸剑风云决/城镇/雷家村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2088,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/雷家村/方位参考.png",
+    "逸剑风云决/城镇/雷家村/街景/街景.jpg",
+    "逸剑风云决/城镇/雷家村/拼接/街区-p050-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "谭城",
+   "file": "逸剑风云决/城镇/谭城/城镇总览.jpg",
+   "width": 1856,
+   "height": 2083,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/谭城/方位参考.png",
+    "逸剑风云决/城镇/谭城/街景/街景.jpg",
+    "逸剑风云决/城镇/谭城/拼接/街区-p017-1.png"
+   ],
+   "note": "",
+   "route": "丐帮总舵设在谭城内，总舵院落单独收图。"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "丐帮总舵",
+   "file": "逸剑风云决/城镇/丐帮总舵/城镇总览.jpg",
+   "width": 1856,
+   "height": 1942,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/丐帮总舵/方位参考.png",
+    "逸剑风云决/城镇/丐帮总舵/街景/总舵院内（图源带标注）.jpg",
+    "逸剑风云决/城镇/丐帮总舵/拼接/总舵门楼至院内.png"
+   ],
+   "note": "",
+   "route": "从谭城进总舵，可在院内找到乌天瘤与帮主左江龙。"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天鸣村",
+   "file": "逸剑风云决/城镇/天鸣村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2193,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/天鸣村/方位参考.png",
+    "逸剑风云决/城镇/天鸣村/街景/街景.jpg",
+    "逸剑风云决/城镇/天鸣村/拼接/聚落与民居-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "幽云泽渡口",
+   "file": "逸剑风云决/城镇/幽云泽渡口/城镇总览.jpg",
+   "width": 1856,
+   "height": 2084,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/幽云泽渡口/方位参考.png",
+    "逸剑风云决/城镇/幽云泽渡口/街景/街景.jpg",
+    "逸剑风云决/城镇/幽云泽渡口/拼接/街区-p030-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "南渝村",
+   "file": "逸剑风云决/城镇/南渝村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2121,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/南渝村/方位参考.png",
+    "逸剑风云决/城镇/南渝村/街景/街景.jpg",
+    "逸剑风云决/城镇/南渝村/拼接/街区-p016-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "津鲤村",
+   "file": "逸剑风云决/城镇/津鲤村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2136,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/津鲤村/方位参考.png",
+    "逸剑风云决/城镇/津鲤村/街景/街景.jpg",
+    "逸剑风云决/城镇/津鲤村/街景/城内街景.png",
+    "逸剑风云决/城镇/津鲤村/拼接/村巷-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "程家村",
+   "file": "逸剑风云决/城镇/程家村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2135,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/程家村/方位参考.png",
+    "逸剑风云决/城镇/程家村/街景/街景.jpg",
+    "逸剑风云决/城镇/程家村/街景/城内街景.png",
+    "逸剑风云决/城镇/程家村/拼接/村舍与田间小路.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "北山村",
+   "file": "逸剑风云决/城镇/北山村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2104,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/北山村/方位参考.png",
+    "逸剑风云决/城镇/北山村/街景/街景.jpg",
+    "逸剑风云决/城镇/北山村/拼接/街区-p032-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "峋谷关",
+   "file": "逸剑风云决/城镇/峋谷关/城镇总览.jpg",
+   "width": 1856,
+   "height": 2093,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/峋谷关/方位参考.png",
+    "逸剑风云决/城镇/峋谷关/街景/街景.jpg",
+    "逸剑风云决/城镇/峋谷关/拼接/街区-p071-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "辽城",
+   "file": "逸剑风云决/城镇/辽城/城镇总览.jpg",
+   "width": 1856,
+   "height": 2207,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/辽城/方位参考.png",
+    "逸剑风云决/城镇/辽城/街景/街景.jpg",
+    "逸剑风云决/城镇/辽城/拼接/街区-p072-1.png",
+    "逸剑风云决/城镇/辽城/拼接/城墙与街市-1080p.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "黎城",
+   "file": "逸剑风云决/城镇/黎城/城镇总览.jpg",
+   "width": 1856,
+   "height": 2171,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/黎城/方位参考.png",
+    "逸剑风云决/城镇/黎城/街景/街景.jpg",
+    "逸剑风云决/城镇/黎城/拼接/街区-p077-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "临昌",
+   "file": "逸剑风云决/城镇/临昌/城镇总览.jpg",
+   "width": 1856,
+   "height": 1599,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/临昌/方位参考.png",
+    "逸剑风云决/城镇/临昌/拼接/入城街道.png",
+    "逸剑风云决/城镇/临昌/街景/入城街道.jpg"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "玄火教",
+   "file": "逸剑风云决/城镇/玄火教/城镇总览.jpg",
+   "width": 1856,
+   "height": 1582,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/玄火教/方位参考.png",
+    "逸剑风云决/城镇/玄火教/街景/城内街景.png",
+    "逸剑风云决/城镇/玄火教/拼接/门前石阶-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "豫村",
+   "file": "逸剑风云决/城镇/豫村/城镇总览.jpg",
+   "width": 1856,
+   "height": 1595,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/豫村/方位参考.png",
+    "逸剑风云决/城镇/豫村/街景/雪中村道.jpg",
+    "逸剑风云决/城镇/豫村/拼接/雪中村巷-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "樊城",
+   "file": "逸剑风云决/城镇/樊城/城镇总览.jpg",
+   "width": 1856,
+   "height": 2117,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/樊城/方位参考.png",
+    "逸剑风云决/城镇/樊城/街景/街景.jpg",
+    "逸剑风云决/城镇/樊城/拼接/街区-p039-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "苍岚村",
+   "file": "逸剑风云决/城镇/苍岚村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2107,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/苍岚村/方位参考.png",
+    "逸剑风云决/城镇/苍岚村/街景/街景.jpg",
+    "逸剑风云决/城镇/苍岚村/拼接/街区-p088-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "神鹰门",
+   "file": "逸剑风云决/城镇/神鹰门/城镇总览.jpg",
+   "width": 1856,
+   "height": 2123,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/神鹰门/方位参考.png",
+    "逸剑风云决/城镇/神鹰门/街景/街景.jpg",
+    "逸剑风云决/城镇/神鹰门/拼接/街区-p091-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "穷山据点",
+   "file": "逸剑风云决/城镇/穷山据点/城镇总览.jpg",
+   "width": 1856,
+   "height": 2216,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/穷山据点/方位参考.png",
+    "逸剑风云决/城镇/穷山据点/街景/街景.jpg",
+    "逸剑风云决/城镇/穷山据点/街景/城内街景.png",
+    "逸剑风云决/城镇/穷山据点/拼接/驻地街区-街段.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "苦水村",
+   "file": "逸剑风云决/城镇/苦水村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2096,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/苦水村/方位参考.png",
+    "逸剑风云决/城镇/苦水村/街景/街景.jpg",
+    "逸剑风云决/城镇/苦水村/拼接/街区-p092-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天水城",
+   "file": "逸剑风云决/城镇/天水城/城镇总览.jpg",
+   "width": 1856,
+   "height": 2169,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/天水城/方位参考.png",
+    "逸剑风云决/城镇/天水城/街景/街景.jpg",
+    "逸剑风云决/城镇/天水城/街景/城内街景.png",
+    "逸剑风云决/城镇/天水城/街景/外城街市.jpg",
+    "逸剑风云决/城镇/天水城/拼接/城内石街-街段.png"
+   ],
+   "note": "外城街市和城内街景已收录，方位图标出了城墙、知州府和程家堡入口。",
+   "route": "自城门向内经过城墙可到知州府，再往北是程家堡。"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "甘泉村",
+   "file": "逸剑风云决/城镇/甘泉村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2093,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/甘泉村/方位参考.png",
+    "逸剑风云决/城镇/甘泉村/街景/街景.jpg",
+    "逸剑风云决/城镇/甘泉村/拼接/街区-p090-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "平阳堡",
+   "file": "逸剑风云决/城镇/平阳堡/城镇总览.jpg",
+   "width": 1856,
+   "height": 2124,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/平阳堡/方位参考.png",
+    "逸剑风云决/城镇/平阳堡/街景/街景.jpg",
+    "逸剑风云决/城镇/平阳堡/拼接/街区-p082-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "恶人谷",
+   "file": "逸剑风云决/城镇/恶人谷/城镇总览.jpg",
+   "width": 1856,
+   "height": 2097,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/恶人谷/方位参考.png",
+    "逸剑风云决/城镇/恶人谷/街景/街景.jpg",
+    "逸剑风云决/城镇/恶人谷/拼接/街区-p084-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "景陇",
+   "file": "逸剑风云决/城镇/景陇/城镇总览.jpg",
+   "width": 1856,
+   "height": 2123,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/景陇/方位参考.png",
+    "逸剑风云决/城镇/景陇/街景/街景.jpg",
+    "逸剑风云决/城镇/景陇/拼接/街区-p095-1.png",
+    "逸剑风云决/城镇/景陇/拼接/街区-p095-2.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "霹雳门",
+   "file": "逸剑风云决/城镇/霹雳门/城镇总览.jpg",
+   "width": 1856,
+   "height": 2097,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/霹雳门/方位参考.png",
+    "逸剑风云决/城镇/霹雳门/街景/街景.jpg",
+    "逸剑风云决/城镇/霹雳门/拼接/街区-p094-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "蝴蝶村",
+   "file": "逸剑风云决/城镇/蝴蝶村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2135,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/蝴蝶村/方位参考.png",
+    "逸剑风云决/城镇/蝴蝶村/街景/街景.jpg",
+    "逸剑风云决/城镇/蝴蝶村/拼接/街区-p099-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "洱郡",
+   "file": "逸剑风云决/城镇/洱郡/城镇总览.jpg",
+   "width": 1856,
+   "height": 2092,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/洱郡/方位参考.png",
+    "逸剑风云决/城镇/洱郡/街景/街景.jpg",
+    "逸剑风云决/城镇/洱郡/拼接/街区-p096-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "石屏村",
+   "file": "逸剑风云决/城镇/石屏村/城镇总览.jpg",
+   "width": 1856,
+   "height": 2081,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/石屏村/方位参考.png",
+    "逸剑风云决/城镇/石屏村/街景/街景.jpg",
+    "逸剑风云决/城镇/石屏村/拼接/街区-p097-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "五仙教",
+   "file": "逸剑风云决/城镇/五仙教/城镇总览.jpg",
+   "width": 1856,
+   "height": 2207,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/五仙教/方位参考.png",
+    "逸剑风云决/城镇/五仙教/街景/街景.jpg",
+    "逸剑风云决/城镇/五仙教/拼接/街区-p101-1.png",
+    "逸剑风云决/城镇/五仙教/拼接/街区-p101-2.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "碧波门",
+   "file": "逸剑风云决/城镇/碧波门/城镇总览.jpg",
+   "width": 1856,
+   "height": 2083,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/碧波门/方位参考.png",
+    "逸剑风云决/城镇/碧波门/街景/街景.jpg",
+    "逸剑风云决/城镇/碧波门/拼接/街区-p103-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "长生殿",
+   "file": "逸剑风云决/城镇/长生殿/城镇总览.jpg",
+   "width": 1856,
+   "height": 2168,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/长生殿/方位参考.png",
+    "逸剑风云决/城镇/长生殿/街景/街景.jpg",
+    "逸剑风云决/城镇/长生殿/拼接/街区-p105-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "仙人渡",
+   "file": "逸剑风云决/城镇/仙人渡/城镇总览.jpg",
+   "width": 1856,
+   "height": 1228,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/仙人渡/街景/街景.jpg",
+    "逸剑风云决/城镇/仙人渡/拼接/街区-p058-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "游仙村",
+   "file": "逸剑风云决/城镇/游仙村/城镇总览.jpg",
+   "width": 1856,
+   "height": 1235,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/游仙村/街景/街景.jpg",
+    "逸剑风云决/城镇/游仙村/拼接/街区-p059-1.png",
+    "逸剑风云决/城镇/游仙村/拼接/街区-p059-2.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "程家堡",
+   "file": "逸剑风云决/城镇/程家堡/城镇总览.jpg",
+   "width": 1856,
+   "height": 1233,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/程家堡/街景/街景.jpg",
+    "逸剑风云决/城镇/程家堡/街景/夜间.jpg",
+    "逸剑风云决/城镇/程家堡/拼接/街区-p086-1.png"
+   ],
+   "note": "",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "和璞山庄",
+   "file": "逸剑风云决/城镇/和璞山庄/城镇总览.jpg",
+   "width": 1856,
+   "height": 979,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/和璞山庄/街景/山庄前庭-1080p.jpg",
+    "逸剑风云决/城镇/和璞山庄/拼接/山庄演武场.png"
+   ],
+   "note": "演武场可见兵器架与门前石阶。两幅实机画面沿场地边缘拼接，保留了原有对话。",
+   "route": ""
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "无名岛",
+   "file": "逸剑风云决/城镇/无名岛/城镇总览.jpg",
+   "width": 1856,
+   "height": 780,
+   "status": "已拼街段",
+   "assets": [
+    "逸剑风云决/城镇/无名岛/街景/驻地木栈台.jpg",
+    "逸剑风云决/城镇/无名岛/拼接/海上栈台-街段.png"
+   ],
+   "note": "",
+   "route": "收录驻地临海的木栈台。"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天山派遗址",
+   "file": "逸剑风云决/城镇/天山派遗址/城镇总览.jpg",
+   "width": 1856,
+   "height": 1962,
+   "status": "仅遗址入口",
+   "assets": [
+    "逸剑风云决/城镇/天山派遗址/方位图/天山派遗址与山路方位.png",
+    "逸剑风云决/城镇/天山派遗址/街景/山麓墓碑与遗址入口.jpg"
+   ],
+   "note": "收录山麓墓碑和通往遗址的岔路，门派遗址内部仍缺画面。",
+   "route": ""
+  }
+ ],
+ "assets": [
+  {
+   "file": "八方旅人Ⅱ/城镇/无人村/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "无人村",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Abandoned_Village",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/5/5d/Abandoned_Village.jpg/revision/latest?cb=20240507204255",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/兽人村/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "兽人村",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Beasting_Village",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/f/ff/Beasting_Village.jpg/revision/latest?cb=20240507211114",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/卡纳尔布来因/街景/城镇-昼.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "卡纳尔布来因",
+   "type": "实景原图",
+   "label": "城镇 · 昼",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Canalbrine",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/a/a3/Canalbrine_Day.jpg/revision/latest?cb=20230704180303",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/卡纳尔布来因/街景/城镇-夜.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "卡纳尔布来因",
+   "type": "实景原图",
+   "label": "城镇 · 夜",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Canalbrine",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/b/b5/Canalbrine_Night.jpg/revision/latest?cb=20230704180014",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/寒岬村/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "寒岬村",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Cape_Cold",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/f/f2/Cape_Cold_Cabin.jpg/revision/latest?cb=20240507204525",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/轮敦/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "轮敦",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1920,
+   "height": 1080,
+   "source": "https://octopathtraveler.fandom.com/wiki/Clockbank",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/0/05/Clockbank.jpg/revision/latest?cb=20230428115722",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/康宁湾/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "康宁湾",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Conning_Creek",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/4/47/Conning_Creek.jpg/revision/latest?cb=20240518211810",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/克拉克雷吉/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "克拉克雷吉",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Crackridge",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/f/f2/Crackridge_Armory.jpg/revision/latest?cb=20240516204910",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库罗普提尔/街景/城镇-昼.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "库罗普提尔",
+   "type": "实景原图",
+   "label": "城镇 · 昼",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Cropdale",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/e/ec/Cropdale_Day.jpg/revision/latest?cb=20230704174320",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库罗普提尔/街景/城镇-夜.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "库罗普提尔",
+   "type": "实景原图",
+   "label": "城镇 · 夜",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Cropdale",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/3/3a/Cropdale_Night.jpg/revision/latest?cb=20230704174125",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗拉姆教堂村/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "弗拉姆教堂村",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Flamechurch",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/1/1b/Flamechurch.jpg/revision/latest?cb=20240506202636",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/格拉维尔/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "格拉维尔",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Gravell",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/a/ae/Gravell_Perch.jpg/revision/latest?cb=20240618024324",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库国/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "库国",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Ku%3A_Castle_Town",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/a/a5/Ku_Castle_Town_Overlook.jpg/revision/latest?cb=20240514210838",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/遗种镇/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "遗种镇",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Lostseed",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/5/58/Lostseed_Overview.jpg/revision/latest?cb=20240603213601",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Merry_Hills",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/e/e8/Merry_Hills_Overview.jpg/revision/latest?cb=20240622230235",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/蒙特维斯/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "蒙特维斯",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Montwise",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/3/3e/Montwise_Wall.jpg/revision/latest?cb=20240516204725",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/无名之乡/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "无名之乡",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Nameless_Village",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/0/00/Nameless_Village_Bridges.jpg/revision/latest?cb=20240618205853",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/街景/城镇-昼.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "type": "实景原图",
+   "label": "城镇 · 昼",
+   "width": 1920,
+   "height": 1080,
+   "source": "https://octopathtraveler.fandom.com/wiki/New_Delsta",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/b/be/New_Delsta.jpg/revision/latest?cb=20230428115334",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/街景/城镇-夜.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "type": "实景原图",
+   "label": "城镇 · 夜",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/New_Delsta",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/d/d9/New_Delsta_Night.jpg/revision/latest?cb=20230705034905",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/欧兹拉修/街景/城镇-昼.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "欧兹拉修",
+   "type": "实景原图",
+   "label": "城镇 · 昼",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Oresrush",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/9/94/Oresrush_Day.jpg/revision/latest?cb=20230705060300",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/欧兹拉修/街景/城镇-夜.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "欧兹拉修",
+   "type": "实景原图",
+   "label": "城镇 · 夜",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Oresrush",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/8/8a/Oresrush_Night.jpg/revision/latest?cb=20230705060232",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/洛克岛/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "洛克岛",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Roque_Island",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/5/51/Roque_Island_Stairs.jpg/revision/latest?cb=20240603211434",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/沙粒之村的驿站/街景/城镇-昼.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "沙粒之村的驿站",
+   "type": "实景原图",
+   "label": "城镇 · 昼",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Ryu",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/d/d9/Ryu_Day.jpg/revision/latest?cb=20230704161651",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/沙粒之村的驿站/街景/城镇-夜.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "沙粒之村的驿站",
+   "type": "实景原图",
+   "label": "城镇 · 夜",
+   "width": 2560,
+   "height": 1600,
+   "source": "https://octopathtraveler.fandom.com/wiki/Ryu",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/c/c9/Ryu_Night.jpg/revision/latest?cb=20230704161807",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/塞伊/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "塞伊",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Sai",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/4/47/Sai_Overview.jpg/revision/latest?cb=20240522202627",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "斯托姆黑伊鲁",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Stormhail",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/e/e4/Stormhail_Outlook.jpg/revision/latest?cb=20240601203918",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/汀巴雷因/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "汀巴雷因",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Timberain",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/9/93/Timberain_Splendor.jpg/revision/latest?cb=20240611194639",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/特洛甫霍普/街景/城镇-昼.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "特洛甫霍普",
+   "type": "实景原图",
+   "label": "城镇 · 昼",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Tropu%27hopu",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/d/d5/Tropu%27hopu_Day.jpg/revision/latest?cb=20240524010607",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/威尔格罗布/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "威尔格罗布",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Wellgrove",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/c/c4/Wellgrove.jpg/revision/latest?cb=20240524211742",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/凛芬镇/街景/城镇-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "凛芬镇",
+   "type": "实景原图",
+   "label": "城镇",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Winterbloom",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/1/1e/Winterbloom_Entrance.jpg/revision/latest?cb=20240516203231",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库国/街景/库城入口-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "库国",
+   "type": "实景原图",
+   "label": "库城入口",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Castle_Ku%3A_Entrance",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/f/ff/Castle_Ku_Entrance_Overview.jpg/revision/latest?cb=20240514231420",
+   "part": "库城入口"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/轮敦/街景/工厂街-夜.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "轮敦",
+   "type": "实景原图",
+   "label": "工厂街 · 夜",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Clockbank%3A_Industrial_District",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/2/2f/Clockbank_Industrial_District_Factory_Gate_Night.jpg/revision/latest?cb=20240523215602",
+   "part": "工厂街"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/康宁湾/街景/港口-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "康宁湾",
+   "type": "实景原图",
+   "label": "港口",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Conning_Creek%3A_Harbor",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/f/f3/Conning_Creek_Harbor.jpg/revision/latest?cb=20240518213415",
+   "part": "港口"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/康宁湾/街景/郊外-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "康宁湾",
+   "type": "实景原图",
+   "label": "郊外",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Conning_Creek%3A_Outskirts",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/f/f3/Conning_Creek_Outskirts_Cemetery.jpg/revision/latest?cb=20240518211911",
+   "part": "郊外"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗拉姆教堂村/街景/大圣堂入口-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "弗拉姆教堂村",
+   "type": "实景原图",
+   "label": "大圣堂入口",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Flamechurch%3A_Cathedral_Entrance",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/d/d8/Flamechurch_Cathedral_Entrance.jpg/revision/latest?cb=20240506202859",
+   "part": "大圣堂入口"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/街景/采矿场-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "type": "实景原图",
+   "label": "采矿场",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Frigit_Isle%3A_Mining_Site",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/b/bb/Frigit_Isle_Mining_Site.jpg/revision/latest?cb=20240508202557",
+   "part": "采矿场"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/街景/院子-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "type": "实景原图",
+   "label": "院子",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Frigit_Isle%3A_Yard",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/7/77/Frigit_Isle_Yard_Stairs.jpg/revision/latest?cb=20240508202627",
+   "part": "院子"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/街景/祭坛前-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "实景原图",
+   "label": "祭坛前",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Merry_Hills%3A_Shrine_Entrance",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/8/84/Merry_Hills_Shrine_Entrance_Overview.jpg/revision/latest?cb=20240622232256",
+   "part": "祭坛前"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/街景/小道-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "type": "实景原图",
+   "label": "小道",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/New_Delsta%3A_Backstreets",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/4/41/New_Delsta_Backstreets.jpg/revision/latest?cb=20240506205820",
+   "part": "小道"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/欧兹拉修/街景/铸造所街区-夜.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "欧兹拉修",
+   "type": "实景原图",
+   "label": "铸造所街区 · 夜",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Oresrush%3A_Foundry",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/1/1d/Oresrush_Foundry_Night.jpg/revision/latest?cb=20240509000921",
+   "part": "铸造所街区"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/塞伊/街景/东区-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "塞伊",
+   "type": "实景原图",
+   "label": "东区",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Sai%3A_East_District",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/c/c3/Sai_East_District_Rooftop.jpg/revision/latest?cb=20240522202613",
+   "part": "东区"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/街景/桥上-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "斯托姆黑伊鲁",
+   "type": "实景原图",
+   "label": "桥上",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Stormhail%3A_Bridge",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/b/b3/Stormhail_Bridge_Overview.jpg/revision/latest?cb=20240601211655",
+   "part": "桥上"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/汀巴雷因/街景/城前广场-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "汀巴雷因",
+   "type": "实景原图",
+   "label": "城前广场",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Timberain_Castle%3A_Town_Square",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/2/22/Timberain_Castle_Town_Square_Evening.jpg/revision/latest?cb=20240602230802",
+   "part": "城前广场"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/特洛甫霍普/街景/水上剧场-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "特洛甫霍普",
+   "type": "实景原图",
+   "label": "水上剧场",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Tropu%27hopu%3A_Floating_Theater",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/f/fb/Tropu%27hopu_Floating_Theater.jpg/revision/latest?cb=20240524010741",
+   "part": "水上剧场"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/特洛甫霍普/街景/造船厂-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "特洛甫霍普",
+   "type": "实景原图",
+   "label": "造船厂",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Tropu%27hopu%3A_Shipyard",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/6/68/Tropu%27hopu_Shipyard.jpg/revision/latest?cb=20240524010811",
+   "part": "造船厂"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/凛芬镇/街景/盗贼街-昼.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "凛芬镇",
+   "type": "实景原图",
+   "label": "盗贼街 · 昼",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Winterbloom%3A_Thieves%27_Quarter",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/b/b2/Winterbloom_Thieves%27_Quarter_Day.jpg/revision/latest?cb=20240516203441",
+   "part": "盗贼街"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/洛克岛/街景/总部门前-实景.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "洛克岛",
+   "type": "实景原图",
+   "label": "总部门前",
+   "width": 1280,
+   "height": 720,
+   "source": "https://octopathtraveler.fandom.com/wiki/Roque_Island%3A_Headquarters",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/a/aa/Roque_Island_Headquarters_Gate.jpg/revision/latest?cb=20240603211520",
+   "part": "总部门前"
+  },
+  {
+   "file": "逸剑风云决/城镇/梧桐村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "梧桐村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FuniB7-TINX6wDsxorJTHFasyRDk_20260615160702.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/洛村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "洛村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FmfWjOW-JTPPO5eZFdZgzG2Q1UoN_20260615160702.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/平康城/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "平康城",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fkhomh19itJE25yB1wrim70Ak7mw_20260615160703.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/武当派/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "武当派",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FiYFURM_keV93zvJwIq7d63C3qxa_20260615160703.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/清河村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "清河村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fme7ZyHEwGnPwYLXJDK0kDE-DE6__20260615160703.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/千陵渡/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "千陵渡",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fme7ZyHEwGnPwYLXJDK0kDE-DE6__20260615160703.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/六扇门/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "六扇门",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FnS7xnehTKPSQjWWGTL-jVfrsUMv_20260615160703.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/天剑宗/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "天剑宗",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FksvlyYPu3jsunE_Dmto4gTWgmrA_20260615160703.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/阎浮镇/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "阎浮镇",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FksvlyYPu3jsunE_Dmto4gTWgmrA_20260615160703.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/少林寺/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "少林寺",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FtdRIJ1Z8Za0P9eqpFg5GYpts4aN_20260615160704.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/青木舫/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "青木舫",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FkiWfGcRVlUaWGnZYOZhCURDmsDN_20260615160704.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FsR2pqid6sL5C5gflNzg1ZsA4eKT_20260615160704.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/夜间方位参考.png",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "方位图",
+   "label": "雨夜方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FsR2pqid6sL5C5gflNzg1ZsA4eKT_20260615160704.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fj-q3F3HAWLBdgD7jQeORIUxkJqi_20260615160704.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/威远镖局/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "威远镖局",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FrSYxkvmJvoCIV_tzTG43oedIBX6_20260615160705.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/双河村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "双河村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FrSYxkvmJvoCIV_tzTG43oedIBX6_20260615160705.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/雷家村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "雷家村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FrjUqa1HwcJ_6uAZI7dmfMO1qdx3_20260615160705.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/谭城/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "谭城",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fm45t43SI1dF4fFNyohQ5-Nl64wi_20260615160705.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/丐帮总舵/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "丐帮总舵",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FjtP0m1Cptb28Qv5Zea2OxG4lzJE_20260615160705.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/天鸣村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "天鸣村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FjtP0m1Cptb28Qv5Zea2OxG4lzJE_20260615160705.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/幽云泽渡口/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "幽云泽渡口",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fg65ruABncysfzDtM3J4jbSzfmBJ_20260615160705.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/南渝村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "南渝村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FgjEXkTVv3yMHqQOH9jKg1e_8K_l_20260615160706.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/津鲤村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "津鲤村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FpjsHATWHNoUmSfM3psry_e3cfLA_20260615160706.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/程家村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "程家村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FtROuVSsy9tMVs20dRKqsVxuy-Ux_20260615160706.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/北山村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "北山村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FtROuVSsy9tMVs20dRKqsVxuy-Ux_20260615160706.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/峋谷关/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "峋谷关",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fivwmh1UrDPpnuu-qy0WmZPP4MMc_20260615160706.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/辽城/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "辽城",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FjquOvONTNuyArAJnDj4IEBYicv0_20260615160706.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/黎城/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "黎城",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FgumRc-olufYBp1S57JPs4guZTJl_20260615160706.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/临昌/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "临昌",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FglWF5fYmhlynWYf3Ve98n22FfGk_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/玄火教/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "玄火教",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fm5vRQhNKu4DpsYDnuVkz4BFlibS_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/豫村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "豫村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FidpMjlxxgXqeFN91pnXQ7jOMKqL_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/樊城/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "樊城",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fq4-aoeeRkqkhGkNASU2a_kZ-eYw_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/苍岚村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "苍岚村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fio9fpvdqLUHyQ_aZX0S_RWEY0sK_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/神鹰门/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "神鹰门",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fio9fpvdqLUHyQ_aZX0S_RWEY0sK_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/穷山据点/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "穷山据点",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FkLmDUszpCLdK14ArrTMqWLxmXen_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/苦水村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "苦水村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FkLmDUszpCLdK14ArrTMqWLxmXen_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/天水城/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "天水城",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fq6mg4miwnCmvhma0Q3KDElhAWsV_20260615160707.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/甘泉村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "甘泉村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FsP3RPd3MbsLJm1B8C3nfLJsLnuc_20260615160708.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/平阳堡/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "平阳堡",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 3840,
+   "height": 2560,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/lhZMaD8tuAFC3nFvqPoDdhnFT7cE_20260615160708.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/恶人谷/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "恶人谷",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 3840,
+   "height": 2560,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/lhZMaD8tuAFC3nFvqPoDdhnFT7cE_20260615160708.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/景陇/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "景陇",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fm2SoerFlTvmgEAqGsYCSbk4u5xj_20260615160708.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/霹雳门/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "霹雳门",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FmUkAI0Qx6USlmOp62k2ignNp5dt_20260615160708.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/蝴蝶村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "蝴蝶村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fmp3G56iWZ6SrnlH-xz1CB2VjgSD_20260615160709.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/洱郡/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "洱郡",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fiov8dxvcQqC0mOAquaBm4pAh_u8_20260615160709.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/石屏村/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "石屏村",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fiov8dxvcQqC0mOAquaBm4pAh_u8_20260615160709.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/五仙教/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "五仙教",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FhavA4LytVneYg9t1XtJFc8qXzOs_20260615160709.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/碧波门/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "碧波门",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/Fja6kvRKa3JStK7hT6n_wFLuUvIS_20260615160710.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/长生殿/方位参考.png",
+   "game": "逸剑风云决",
+   "town": "长生殿",
+   "type": "方位图",
+   "label": "方位图",
+   "width": 1200,
+   "height": 800,
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "imageURL": "https://img2-tc.tapimg.com/moment/etag/FhNRp26jsh80NUV2y5NRP4BXXY9Y_20260615160710.png",
+   "credit": "临崖攻略组"
+  },
+  {
+   "file": "逸剑风云决/城镇/梧桐村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "梧桐村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=1",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_000031y2qxez4zfep25t38d5l2nizmb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/洛村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "洛村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=3",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00002pby6621spug12difv4bjo0o91b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/平康城/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "平康城",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=4",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00000xwrd47n1epbi24qdk5wt2468zb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/阎浮镇/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "阎浮镇",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=10",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00003uh0eev4ts5pp2qwry13jhu83qb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/武当派/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "武当派",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=12",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00001bgqeo6r8dh5o29lde8fyqkfx3b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/武当派/街景/夜间.jpg",
+   "game": "逸剑风云决",
+   "town": "武当派",
+   "type": "实景原图",
+   "label": "夜间",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=13",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00000m7ei5lhfr8eo2kyg0paddb86vb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/南渝村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "南渝村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=16",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00003fsiqe4x5v7wk2ij8bup5j20wcb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/谭城/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "谭城",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=17",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00001wyv0p7s6gp742sb66w4bapauub_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=18",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00001exjbuwce0fcx2ibwa79kav4pob_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/街景/雨夜.jpg",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景原图",
+   "label": "雨夜",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=19",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_000016ynx68iq0jsq1z6zj4kpnct6wb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/街景/灯会.jpg",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景原图",
+   "label": "灯会",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=20",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00000dkgbrz34mcau2buefyhij1lhfb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/青木舫/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "青木舫",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=21",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_000016it7838j72fs2itq3zg0i1f5gb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/少林寺/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "少林寺",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=26",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00003c6rkoq48mljs2wo8klr4i3r1rb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/清河村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "清河村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=29",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00000u0j026g1vn5h2p8nx3gzlc9s4b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/幽云泽渡口/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "幽云泽渡口",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=30",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00003j2hd62iu8tot1ygzapj3m7npkb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/北山村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "北山村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=32",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00000nla3wlfoy2l32qnknrz50f6wsb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/津鲤村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "津鲤村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=34",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00003s1ffwn0fbseh2vcb5bhpxvrrob_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/千陵渡/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "千陵渡",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=37",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_000038flbjlxyvviu26l6n228he15xb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/程家村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "程家村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=38",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_0000095tifkw3cgy32mw787r1jshkwb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/樊城/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "樊城",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=39",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_000009kti0h9poxjr2bjjhw6rlfrypb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/天剑宗/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "天剑宗",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=41",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00002dfclzsfyayfi26ma215y5pw11b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/威远镖局/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "威远镖局",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=44",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00000kp57hnqtm2qn2n0cpn8d6nro3b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/双河村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "双河村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=46",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00000zfh33yyn06rz2mco9v62t4tiab_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/雷家村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "雷家村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=50",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00001bk3e3bbveh5h29crhrvccsjotb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/天鸣村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "天鸣村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=52",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_000001ubreeojg98l2795gt9xgre4mb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=53",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00001k1pl0ejfnlt42582fa11o2yvab_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/街景/黄昏.jpg",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "实景原图",
+   "label": "黄昏",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=54",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00003gt2deh24jkd61zwpeo06zytazb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/街景/夜间.jpg",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "实景原图",
+   "label": "夜间",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=55",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00002pxr9ro8mgxgf27lb0wlvb586ab_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/仙人渡/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "仙人渡",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=58",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00000qml9avgog5y12kvzpdh2w1cp6b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/游仙村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "游仙村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=59",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00001vjfzeamwmcn721scilouq1tycb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/峋谷关/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "峋谷关",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=71",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00003nfjxlrdmihq32wkgh31quslrhb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/辽城/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "辽城",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=72",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00001p4qtl1346d5w2174po68dosxbb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/黎城/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "黎城",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=77",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_000016f5o7owobtdg220bybtlbdhjpb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/平阳堡/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "平阳堡",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=82",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00001wp8ow7grvqpn21mhhc6bnudlcb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/恶人谷/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "恶人谷",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=84",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00000976hd4ckdd322dyexzqduswklb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/天水城/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "天水城",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=85",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00003lonoysb5nofe2m6e9x9sk6mmeb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/程家堡/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "程家堡",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=86",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00001f0u0bk9ef1h12mgyjswrd8xj6b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/程家堡/街景/夜间.jpg",
+   "game": "逸剑风云决",
+   "town": "程家堡",
+   "type": "实景原图",
+   "label": "夜间",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=87",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00002tg7m1h4tjwyu2plgu24mnogxnb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/苍岚村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "苍岚村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=88",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00000dvy22tsxmu8w2dtlefgiyjay1b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/甘泉村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "甘泉村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=90",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_000006b5owt9twzno2k71o4un9cwghb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/神鹰门/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "神鹰门",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=91",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_000015lqfxe811yjh2l7tsudhe1gb3b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/苦水村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "苦水村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=92",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00000p25js02hefz22kyezxhpezzgpb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/穷山据点/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "穷山据点",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=93",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_0000210pq2bu8w1q32756xh53v4f5sb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/霹雳门/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "霹雳门",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=94",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_000013pupyb5gi0vx2mt3pweout9y0b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/景陇/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "景陇",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=95",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00001g9sux40e8evu210788p8o4998b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/洱郡/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "洱郡",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=96",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_00001s1au2nym58vu2m9vwescryb73b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/石屏村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "石屏村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=97",
+   "imageURL": "https://i0.hdslb.com/bfs/storyff/_00001yy25qnrydlyg2guyd9paw79imb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/蝴蝶村/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "蝴蝶村",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=99",
+   "imageURL": "https://i2.hdslb.com/bfs/storyff/_000034catviz9pr3w2h99483uws6z4b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/五仙教/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "五仙教",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=101",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00001qq04pv1hgk4e2lwi3bcbw9sk1b_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/碧波门/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "碧波门",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=103",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00001wmjkpbewa7e22li1dbho67txab_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/长生殿/街景/街景.jpg",
+   "game": "逸剑风云决",
+   "town": "长生殿",
+   "type": "实景原图",
+   "label": "街景",
+   "width": 1152,
+   "height": 720,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=105",
+   "imageURL": "https://i1.hdslb.com/bfs/storyff/_00000m1l6hk8cl8ne2mjqm30koqc5rb_firsti.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/玄火教/街景/城内街景.png",
+   "game": "逸剑风云决",
+   "town": "玄火教",
+   "type": "实机截帧",
+   "label": "城内街景",
+   "width": 768,
+   "height": 480,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=81",
+   "seconds": [
+    2.2
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/天水城/街景/城内街景.png",
+   "game": "逸剑风云决",
+   "town": "天水城",
+   "type": "实机截帧",
+   "label": "城内街景",
+   "width": 768,
+   "height": 480,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=85",
+   "seconds": [
+    7
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/洛村/街景/城内街景.png",
+   "game": "逸剑风云决",
+   "town": "洛村",
+   "type": "实机截帧",
+   "label": "城内街景",
+   "width": 768,
+   "height": 480,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=3",
+   "seconds": [
+    3.2
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/津鲤村/街景/城内街景.png",
+   "game": "逸剑风云决",
+   "town": "津鲤村",
+   "type": "实机截帧",
+   "label": "城内街景",
+   "width": 768,
+   "height": 480,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=34",
+   "seconds": [
+    3.6
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/程家村/街景/城内街景.png",
+   "game": "逸剑风云决",
+   "town": "程家村",
+   "type": "实机截帧",
+   "label": "城内街景",
+   "width": 768,
+   "height": 480,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=38",
+   "seconds": [
+    4.2
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/穷山据点/街景/城内街景.png",
+   "game": "逸剑风云决",
+   "town": "穷山据点",
+   "type": "实机截帧",
+   "label": "城内街景",
+   "width": 768,
+   "height": 480,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=93",
+   "seconds": [
+    4.7
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/梧桐村/拼接/街区-p001-3.png",
+   "game": "逸剑风云决",
+   "town": "梧桐村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 956,
+   "height": 392,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=1",
+   "seconds": [
+    16.0,
+    16.333,
+    16.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/平康城/拼接/街区-p004-1.png",
+   "game": "逸剑风云决",
+   "town": "平康城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1178,
+   "height": 404,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=4",
+   "seconds": [
+    36.667,
+    37.0,
+    37.333,
+    37.667,
+    38.0
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/平康城/拼接/街区-p004-2.png",
+   "game": "逸剑风云决",
+   "town": "平康城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 970,
+   "height": 397,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=4",
+   "seconds": [
+    0.0,
+    0.667,
+    1.0
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/阎浮镇/拼接/街区-p010-1.png",
+   "game": "逸剑风云决",
+   "town": "阎浮镇",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 834,
+   "height": 392,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=10",
+   "seconds": [
+    0.667,
+    1.0
+   ],
+   "frameCount": 2,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/武当派/拼接/街区-p012-1.png",
+   "game": "逸剑风云决",
+   "town": "武当派",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 971,
+   "height": 406,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=12",
+   "seconds": [
+    11.667,
+    12.0,
+    12.333,
+    12.667
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/武当派/拼接/夜间-p013-1.png",
+   "game": "逸剑风云决",
+   "town": "武当派",
+   "type": "实景拼接",
+   "label": "夜间",
+   "width": 1291,
+   "height": 393,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=13",
+   "seconds": [
+    1.667,
+    2.0,
+    2.333,
+    2.667,
+    3.0,
+    3.333
+   ],
+   "frameCount": 6,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/南渝村/拼接/街区-p016-1.png",
+   "game": "逸剑风云决",
+   "town": "南渝村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 993,
+   "height": 423,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=16",
+   "seconds": [
+    0.0,
+    0.333,
+    0.667,
+    1.0,
+    1.333
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/谭城/拼接/街区-p017-1.png",
+   "game": "逸剑风云决",
+   "town": "谭城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 848,
+   "height": 385,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=17",
+   "seconds": [
+    6.667,
+    7.0,
+    8.333
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/拼接/街区-p018-1.png",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1053,
+   "height": 437,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=18",
+   "seconds": [
+    8.667,
+    9.0,
+    9.333,
+    9.667,
+    10.0
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/拼接/街区-p018-2.png",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1008,
+   "height": 440,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=18",
+   "seconds": [
+    11.333,
+    11.667,
+    12.333,
+    12.667
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/拼接/雨夜-p019-1.png",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景拼接",
+   "label": "雨夜",
+   "width": 1163,
+   "height": 473,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=19",
+   "seconds": [
+    1.0,
+    1.667,
+    2.0,
+    3.667,
+    4.0,
+    4.667,
+    5.0,
+    5.333,
+    5.667,
+    6.0
+   ],
+   "frameCount": 10,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/拼接/灯会-p020-1.png",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景拼接",
+   "label": "灯会",
+   "width": 905,
+   "height": 387,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=20",
+   "seconds": [
+    2.667,
+    3.0
+   ],
+   "frameCount": 2,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/青木舫/拼接/街区-p021-2.png",
+   "game": "逸剑风云决",
+   "town": "青木舫",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 917,
+   "height": 383,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=21",
+   "seconds": [
+    0.0,
+    1.0
+   ],
+   "frameCount": 2,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/青木舫/拼接/街区-p021-3.png",
+   "game": "逸剑风云决",
+   "town": "青木舫",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 910,
+   "height": 390,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=21",
+   "seconds": [
+    2.333,
+    2.667,
+    5.0
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/少林寺/拼接/街区-p026-1.png",
+   "game": "逸剑风云决",
+   "town": "少林寺",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1081,
+   "height": 392,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=26",
+   "seconds": [
+    41.0,
+    41.333,
+    41.667,
+    42.0,
+    42.333
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/少林寺/拼接/街区-p026-3.png",
+   "game": "逸剑风云决",
+   "town": "少林寺",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1028,
+   "height": 390,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=26",
+   "seconds": [
+    19.0,
+    19.333,
+    19.667,
+    20.0
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/幽云泽渡口/拼接/街区-p030-1.png",
+   "game": "逸剑风云决",
+   "town": "幽云泽渡口",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 872,
+   "height": 386,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=30",
+   "seconds": [
+    0.0,
+    0.667
+   ],
+   "frameCount": 2,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/北山村/拼接/街区-p032-1.png",
+   "game": "逸剑风云决",
+   "town": "北山村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 912,
+   "height": 406,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=32",
+   "seconds": [
+    4.333,
+    4.667,
+    5.0
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/樊城/拼接/街区-p039-1.png",
+   "game": "逸剑风云决",
+   "town": "樊城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1020,
+   "height": 419,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=39",
+   "seconds": [
+    0.667,
+    1.667,
+    2.667,
+    3.333,
+    3.667
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/天剑宗/拼接/街区-p041-1.png",
+   "game": "逸剑风云决",
+   "town": "天剑宗",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 922,
+   "height": 405,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=41",
+   "seconds": [
+    0.0,
+    0.333,
+    0.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/雷家村/拼接/街区-p050-1.png",
+   "game": "逸剑风云决",
+   "town": "雷家村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1049,
+   "height": 390,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=50",
+   "seconds": [
+    5.0,
+    5.333,
+    5.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/拼接/街区-p053-1.png",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1112,
+   "height": 407,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=53",
+   "seconds": [
+    8.333,
+    8.667,
+    9.0,
+    9.333,
+    9.667,
+    11.0
+   ],
+   "frameCount": 6,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/拼接/街区-p053-2.png",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 986,
+   "height": 386,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=53",
+   "seconds": [
+    3.333,
+    3.667,
+    4.0
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/拼接/黄昏-p054-1.png",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "实景拼接",
+   "label": "黄昏",
+   "width": 1070,
+   "height": 403,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=54",
+   "seconds": [
+    2.0,
+    2.333,
+    2.667,
+    3.0
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/名剑山庄/拼接/夜间-p055-1.png",
+   "game": "逸剑风云决",
+   "town": "名剑山庄",
+   "type": "实景拼接",
+   "label": "夜间",
+   "width": 979,
+   "height": 383,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=55",
+   "seconds": [
+    0.0,
+    0.333,
+    0.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/仙人渡/拼接/街区-p058-1.png",
+   "game": "逸剑风云决",
+   "town": "仙人渡",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 964,
+   "height": 386,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=58",
+   "seconds": [
+    6.0,
+    6.333,
+    6.667,
+    9.667
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/游仙村/拼接/街区-p059-1.png",
+   "game": "逸剑风云决",
+   "town": "游仙村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1236,
+   "height": 393,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=59",
+   "seconds": [
+    21.0,
+    21.333,
+    21.667,
+    22.0,
+    22.333,
+    22.667
+   ],
+   "frameCount": 6,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/游仙村/拼接/街区-p059-2.png",
+   "game": "逸剑风云决",
+   "town": "游仙村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 993,
+   "height": 434,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=59",
+   "seconds": [
+    10.333,
+    10.667,
+    11.0,
+    11.333
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/峋谷关/拼接/街区-p071-1.png",
+   "game": "逸剑风云决",
+   "town": "峋谷关",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 975,
+   "height": 395,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=71",
+   "seconds": [
+    13.0,
+    13.333,
+    13.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/辽城/拼接/街区-p072-1.png",
+   "game": "逸剑风云决",
+   "town": "辽城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 969,
+   "height": 438,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=72",
+   "seconds": [
+    0.0,
+    0.667,
+    2.667,
+    3.0,
+    3.333
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/黎城/拼接/街区-p077-1.png",
+   "game": "逸剑风云决",
+   "town": "黎城",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1207,
+   "height": 473,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=77",
+   "seconds": [
+    1.333,
+    1.667,
+    2.0,
+    2.333,
+    2.667,
+    5.0,
+    5.333
+   ],
+   "frameCount": 7,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/平阳堡/拼接/街区-p082-1.png",
+   "game": "逸剑风云决",
+   "town": "平阳堡",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 919,
+   "height": 426,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=82",
+   "seconds": [
+    0.333,
+    0.667,
+    3.0
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/恶人谷/拼接/街区-p084-1.png",
+   "game": "逸剑风云决",
+   "town": "恶人谷",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 955,
+   "height": 399,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=84",
+   "seconds": [
+    4.673,
+    5.006,
+    5.34
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/程家堡/拼接/街区-p086-1.png",
+   "game": "逸剑风云决",
+   "town": "程家堡",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 899,
+   "height": 391,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=86",
+   "seconds": [
+    3.0,
+    3.333,
+    3.667,
+    4.333
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/苍岚村/拼接/街区-p088-1.png",
+   "game": "逸剑风云决",
+   "town": "苍岚村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1016,
+   "height": 409,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=88",
+   "seconds": [
+    11.667,
+    12.0,
+    12.333,
+    13.0
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/甘泉村/拼接/街区-p090-1.png",
+   "game": "逸剑风云决",
+   "town": "甘泉村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 948,
+   "height": 395,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=90",
+   "seconds": [
+    0.0,
+    1.0,
+    1.333
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/神鹰门/拼接/街区-p091-1.png",
+   "game": "逸剑风云决",
+   "town": "神鹰门",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1233,
+   "height": 425,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=91",
+   "seconds": [
+    0.667,
+    1.0,
+    1.333,
+    1.667,
+    2.0
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/苦水村/拼接/街区-p092-1.png",
+   "game": "逸剑风云决",
+   "town": "苦水村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 941,
+   "height": 398,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=92",
+   "seconds": [
+    0.0,
+    0.333,
+    0.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/霹雳门/拼接/街区-p094-1.png",
+   "game": "逸剑风云决",
+   "town": "霹雳门",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 862,
+   "height": 399,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=94",
+   "seconds": [
+    0.667,
+    1.0,
+    1.333
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/景陇/拼接/街区-p095-1.png",
+   "game": "逸剑风云决",
+   "town": "景陇",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1109,
+   "height": 425,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=95",
+   "seconds": [
+    9.0,
+    9.333,
+    9.667,
+    10.0,
+    10.333
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/景陇/拼接/街区-p095-2.png",
+   "game": "逸剑风云决",
+   "town": "景陇",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 885,
+   "height": 383,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=95",
+   "seconds": [
+    0.0,
+    0.667
+   ],
+   "frameCount": 2,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/洱郡/拼接/街区-p096-1.png",
+   "game": "逸剑风云决",
+   "town": "洱郡",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 978,
+   "height": 394,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=96",
+   "seconds": [
+    3.0,
+    3.333,
+    3.667,
+    4.667
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/石屏村/拼接/街区-p097-1.png",
+   "game": "逸剑风云决",
+   "town": "石屏村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 965,
+   "height": 383,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=97",
+   "seconds": [
+    0.667,
+    1.0,
+    1.333
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/蝴蝶村/拼接/街区-p099-1.png",
+   "game": "逸剑风云决",
+   "town": "蝴蝶村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 892,
+   "height": 437,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=99",
+   "seconds": [
+    1.0,
+    1.333,
+    1.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/五仙教/拼接/街区-p101-1.png",
+   "game": "逸剑风云决",
+   "town": "五仙教",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1148,
+   "height": 509,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=101",
+   "seconds": [
+    1.333,
+    1.667,
+    2.0,
+    2.333,
+    2.667
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/五仙教/拼接/街区-p101-2.png",
+   "game": "逸剑风云决",
+   "town": "五仙教",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1155,
+   "height": 394,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=101",
+   "seconds": [
+    3.0,
+    3.333,
+    3.667,
+    4.0,
+    4.333
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/碧波门/拼接/街区-p103-1.png",
+   "game": "逸剑风云决",
+   "town": "碧波门",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1806,
+   "height": 399,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=103",
+   "seconds": [
+    2.333,
+    2.667,
+    3.0,
+    3.333,
+    3.667,
+    4.0,
+    4.333,
+    4.667,
+    5.0,
+    5.333
+   ],
+   "frameCount": 10,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/长生殿/拼接/街区-p105-1.png",
+   "game": "逸剑风云决",
+   "town": "长生殿",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1006,
+   "height": 470,
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=105",
+   "seconds": [
+    2.0,
+    3.333,
+    3.667
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/沙粒之村的驿站/拼接/街区-p015-2.png",
+   "game": "八方旅人Ⅱ",
+   "town": "沙粒之村的驿站",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1244,
+   "height": 439,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=15",
+   "seconds": [
+    130.23,
+    130.87,
+    131.5,
+    132.13,
+    132.77,
+    134.67,
+    135.3
+   ],
+   "frameCount": 7,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/兽人村/拼接/街区-p021-2.png",
+   "game": "八方旅人Ⅱ",
+   "town": "兽人村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 962,
+   "height": 443,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=21",
+   "seconds": [
+    70.07,
+    70.7,
+    71.97,
+    80.2
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/特洛甫霍普/拼接/街区-p022-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "特洛甫霍普",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 997,
+   "height": 496,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=22",
+   "seconds": [
+    76.4,
+    78.3,
+    79.57,
+    81.47
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/拼接/街区-p023-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1303,
+   "height": 449,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=23",
+   "seconds": [
+    14.97,
+    15.6,
+    16.23,
+    16.87,
+    17.5
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗拉姆教堂村/拼接/街区-p024-2.png",
+   "game": "八方旅人Ⅱ",
+   "town": "弗拉姆教堂村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 810,
+   "height": 572,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=24",
+   "seconds": [
+    82.1,
+    82.73,
+    83.37
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/寒岬村/拼接/街区-p025-2.png",
+   "game": "八方旅人Ⅱ",
+   "town": "寒岬村",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 964,
+   "height": 416,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=25",
+   "seconds": [
+    8.0,
+    9.9
+   ],
+   "frameCount": 2,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/凛芬镇/拼接/街区-p034-2.png",
+   "game": "八方旅人Ⅱ",
+   "town": "凛芬镇",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1008,
+   "height": 418,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=34",
+   "seconds": [
+    124.53,
+    125.17,
+    125.8
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/蒙特维斯/拼接/街区-p039-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "蒙特维斯",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1030,
+   "height": 443,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=39",
+   "seconds": [
+    21.93,
+    22.57,
+    25.73,
+    56.77
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/康宁湾/拼接/街区-p043-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "康宁湾",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1211,
+   "height": 450,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=43",
+   "seconds": [
+    15.6,
+    16.23,
+    16.87,
+    18.13,
+    18.77
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/塞伊/拼接/街区-p045-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "塞伊",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 965,
+   "height": 448,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=45",
+   "seconds": [
+    99.83,
+    123.9,
+    125.17
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/轮敦/拼接/街区-p049-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "轮敦",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1264,
+   "height": 449,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=49",
+   "seconds": [
+    20.67,
+    21.3,
+    21.93,
+    23.2,
+    24.47,
+    25.1
+   ],
+   "frameCount": 6,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/威尔格罗布/拼接/街区-p067-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "威尔格罗布",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1235,
+   "height": 416,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=67",
+   "seconds": [
+    13.07,
+    13.7,
+    14.33,
+    14.97
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/格拉维尔/拼接/街区-p079-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "格拉维尔",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 954,
+   "height": 417,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=79",
+   "seconds": [
+    30.17,
+    31.43
+   ],
+   "frameCount": 2,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/汀巴雷因/拼接/街区-p083-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "汀巴雷因",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1389,
+   "height": 441,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=83",
+   "seconds": [
+    29.53,
+    30.8,
+    39.03,
+    39.67,
+    40.3,
+    42.2,
+    42.83,
+    43.47,
+    44.1
+   ],
+   "frameCount": 9,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/汀巴雷因/拼接/街区-p083-4.png",
+   "game": "八方旅人Ⅱ",
+   "town": "汀巴雷因",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1137,
+   "height": 509,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=83",
+   "seconds": [
+    21.3,
+    21.93,
+    22.57
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/拼接/街区-p085-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "斯托姆黑伊鲁",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1191,
+   "height": 462,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=85",
+   "seconds": [
+    102.37,
+    103.0,
+    103.63
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/无名之乡/拼接/街区-p093-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "无名之乡",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1030,
+   "height": 455,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=93",
+   "seconds": [
+    176.47,
+    177.73,
+    178.37,
+    179.63,
+    180.27
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/无名之乡/拼接/街区-p093-3.png",
+   "game": "八方旅人Ⅱ",
+   "town": "无名之乡",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 974,
+   "height": 424,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=93",
+   "seconds": [
+    129.6,
+    130.23,
+    131.5
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库国/拼接/街区-p102-3.png",
+   "game": "八方旅人Ⅱ",
+   "town": "库国",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1277,
+   "height": 431,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=102",
+   "seconds": [
+    200.53,
+    201.17,
+    202.43,
+    203.07,
+    203.7
+   ],
+   "frameCount": 5,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/街区-p103-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 966,
+   "height": 488,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=103",
+   "seconds": [
+    20.67,
+    21.93,
+    22.57
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/街区-p103-2.png",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 977,
+   "height": 479,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=103",
+   "seconds": [
+    40.93,
+    42.2,
+    42.83,
+    43.47
+   ],
+   "frameCount": 4,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/拼接/街区-p133-1.png",
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1323,
+   "height": 451,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=133",
+   "seconds": [
+    52.97,
+    53.6,
+    54.23,
+    54.87,
+    55.5,
+    56.13
+   ],
+   "frameCount": 6,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/拼接/街区-p133-3.png",
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "type": "实景拼接",
+   "label": "街区",
+   "width": 1007,
+   "height": 433,
+   "source": "https://www.bilibili.com/video/BV1sX4y1Q7pL/?p=133",
+   "seconds": [
+    164.43,
+    165.07,
+    165.7
+   ],
+   "frameCount": 3,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/城镇/武当派/拼接/山门广场-wudang-1.png",
+   "game": "逸剑风云决",
+   "town": "武当派",
+   "type": "实景拼接",
+   "label": "山门广场",
+   "width": 1545,
+   "height": 390,
+   "source": "https://www.bilibili.com/video/BV1e24y1P7qH/",
+   "seconds": [
+    20.0,
+    20.267,
+    20.533,
+    20.8,
+    21.067,
+    21.333,
+    21.6,
+    21.867,
+    22.133,
+    22.4
+   ],
+   "frameCount": 10,
+   "sourceHeight": 480
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/拼接/小道-攻略截图拼接.png",
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "type": "实景拼接",
+   "label": "小道（图源带标注）",
+   "width": 1504,
+   "height": 707,
+   "source": "https://www.gamersky.com/handbook/202302/1570590_5.shtml",
+   "part": "小道",
+   "inputs": [
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/13409.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/13614.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/13458.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/13649.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/13433.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/13697.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/13486.jpg"
+   ],
+   "frameCount": 7,
+   "sourceHeight": 716
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库罗普提尔/拼接/街区-攻略截图拼接.png",
+   "game": "八方旅人Ⅱ",
+   "town": "库罗普提尔",
+   "type": "实景拼接",
+   "label": "街区（图源带标注）",
+   "width": 1312,
+   "height": 665,
+   "source": "https://www.gamersky.com/handbook/202302/1570590_11.shtml",
+   "part": "城镇",
+   "inputs": [
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/18020.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/18103.jpg",
+    "https://img1.gamersky.com/image2023/02/20230224_xdj_187_6/18175.jpg"
+   ],
+   "frameCount": 3,
+   "sourceHeight": 716
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/轮敦/拼接/街区-攻略截图拼接.png",
+   "game": "八方旅人Ⅱ",
+   "town": "轮敦",
+   "type": "实景拼接",
+   "label": "街区（图源带标注）",
+   "width": 1461,
+   "height": 690,
+   "source": "https://www.gamersky.com/handbook/202302/1570590_15.shtml",
+   "part": "城镇",
+   "inputs": [
+    "https://img1.gamersky.com/image2023/03/20230314_xdj_187_3/12303.jpg",
+    "https://img1.gamersky.com/image2023/03/20230314_xdj_187_3/12514.jpg",
+    "https://img1.gamersky.com/image2023/03/20230314_xdj_187_3/12477.jpg",
+    "https://img1.gamersky.com/image2023/03/20230314_xdj_187_3/12388.jpg",
+    "https://img1.gamersky.com/image2023/03/20230314_xdj_187_3/12446.jpg",
+    "https://img1.gamersky.com/image2023/03/20230314_xdj_187_3/12329.jpg",
+    "https://img1.gamersky.com/image2023/03/20230314_xdj_187_3/12552.jpg"
+   ],
+   "frameCount": 7,
+   "sourceHeight": 716
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/克拉克雷吉/拼接/街区-攻略截图拼接.png",
+   "game": "八方旅人Ⅱ",
+   "town": "克拉克雷吉",
+   "type": "实景拼接",
+   "label": "街区（图源带标注）",
+   "width": 1257,
+   "height": 902,
+   "source": "https://www.gamersky.com/handbook/202302/1570590_20.shtml",
+   "part": "城镇",
+   "inputs": [
+    "https://img1.gamersky.com/image2023/03/20230323_xdj_187_2/12358.jpg",
+    "https://img1.gamersky.com/image2023/03/20230323_xdj_187_2/12498.jpg",
+    "https://img1.gamersky.com/image2023/03/20230323_xdj_187_2/12452.jpg",
+    "https://img1.gamersky.com/image2023/03/20230323_xdj_187_2/12327.jpg",
+    "https://img1.gamersky.com/image2023/03/20230323_xdj_187_2/12303.jpg",
+    "https://img1.gamersky.com/image2023/03/20230323_xdj_187_2/12255.jpg",
+    "https://img1.gamersky.com/image2023/03/20230323_xdj_187_2/12416.jpg"
+   ],
+   "frameCount": 7,
+   "sourceHeight": 716
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/街区-攻略截图拼接.png",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "实景拼接",
+   "label": "街区（图源带标注）",
+   "width": 1297,
+   "height": 726,
+   "source": "https://www.gamersky.com/handbook/202302/1570590_26.shtml",
+   "part": "城镇",
+   "inputs": [
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/14551.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/14613.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/14497.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/14648.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/14524.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/14445.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/14414.jpg"
+   ],
+   "frameCount": 7,
+   "sourceHeight": 716
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/祭坛前-攻略截图拼接.png",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "实景拼接",
+   "label": "祭坛前（图源带标注）",
+   "width": 1654,
+   "height": 766,
+   "source": "https://www.gamersky.com/handbook/202302/1570590_27.shtml",
+   "part": "祭坛前",
+   "inputs": [
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15282.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15450.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15394.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15313.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15252.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15368.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15424.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15342.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15183.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_1/15218.jpg"
+   ],
+   "frameCount": 10,
+   "sourceHeight": 716
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/无名之乡/拼接/街区-攻略截图拼接.png",
+   "game": "八方旅人Ⅱ",
+   "town": "无名之乡",
+   "type": "实景拼接",
+   "label": "街区（图源带标注）",
+   "width": 1676,
+   "height": 815,
+   "source": "https://www.gamersky.com/handbook/202302/1570590_28.shtml",
+   "part": "城镇",
+   "inputs": [
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1655.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1825.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1692.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1756.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1543.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1725.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1629.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1863.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1573.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1790.jpg",
+    "https://img1.gamersky.com/image2023/03/20230330_xdj_187_3/1597.jpg"
+   ],
+   "frameCount": 11,
+   "sourceHeight": 716
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/拼接/姑苏城-河埠至擂台长卷.png",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实景拼接",
+   "label": "河埠、石桥、市街至擂台",
+   "width": 5525,
+   "height": 552,
+   "source": "https://www.bilibili.com/video/BV11c411N7Zr/",
+   "seconds": [
+    2.6,
+    33.0
+   ],
+   "frameCount": 457,
+   "sourceHeight": 480
+  },
+  {
+   "file": "逸剑风云决/世界地图/江湖世界地图.png",
+   "game": "逸剑风云决",
+   "town": "世界地图",
+   "type": "世界地图",
+   "label": "江湖",
+   "width": 2112,
+   "height": 1188,
+   "source": "https://yijianwiki.cn/index.php/地图"
+  },
+  {
+   "file": "八方旅人Ⅱ/世界地图/索里苏提亚.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "世界地图",
+   "type": "世界地图",
+   "label": "索里苏提亚",
+   "width": 5632,
+   "height": 3168,
+   "source": "https://github.com/Caleb518c/Octopath2InteractiveMap"
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "洛克岛",
+   "type": "实景原图",
+   "label": "码头",
+   "part": "码头",
+   "source": "https://octopathtraveler.fandom.com/wiki/Roque_Island%3A_Anchorage",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/9/9d/Roque_Island_Anchorage.jpg/revision/latest?cb=20240603211348",
+   "file": "八方旅人Ⅱ/城镇/洛克岛/街景/码头.jpg",
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "type": "实景原图",
+   "label": "码头",
+   "part": "码头",
+   "source": "https://octopathtraveler.fandom.com/wiki/Frigit_Isle%3A_Anchorage",
+   "imageURL": "https://static.wikia.nocookie.net/octopath-traveler/images/4/45/Frigit_Isle_Anchorage_Overview.jpg/revision/latest?cb=20240508205951",
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/街景/码头.jpg",
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "逸剑风云决/城镇/辽城/拼接/城墙与街市-1080p.png",
+   "game": "逸剑风云决",
+   "town": "辽城",
+   "type": "实景拼接",
+   "label": "城墙与街市",
+   "width": 2715,
+   "height": 793,
+   "source": "https://www.youtube.com/watch?v=O4o5iCDIg7g",
+   "seconds": [
+    166.27,
+    166.65,
+    167.03,
+    167.42,
+    167.8
+   ],
+   "frameCount": 5,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "逸剑风云决/城镇/清河村/拼接/村口沿路-1080p.png",
+   "game": "逸剑风云决",
+   "town": "清河村",
+   "type": "实景拼接",
+   "label": "村口沿路",
+   "width": 2090,
+   "height": 779,
+   "source": "https://www.youtube.com/watch?v=Ka1d1fkF-tA",
+   "seconds": [
+    22.25,
+    22.63,
+    29.92
+   ],
+   "frameCount": 3,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/拼接/主街建筑立面-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "type": "实景拼接",
+   "label": "主街建筑立面",
+   "width": 2145,
+   "height": 804,
+   "source": "https://www.youtube.com/watch?v=iej4s8KZxMA",
+   "seconds": [
+    1814.63,
+    1819.23,
+    1819.62,
+    1838.02,
+    1849.13
+   ],
+   "frameCount": 5,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/汀巴雷因/拼接/城前广场与喷泉-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "汀巴雷因",
+   "type": "实景拼接",
+   "label": "城前广场与喷泉",
+   "width": 2854,
+   "height": 789,
+   "source": "https://www.youtube.com/watch?v=01_vJaN9_Gw",
+   "seconds": [
+    1775.32,
+    1775.7,
+    1776.08,
+    1776.47,
+    1776.85,
+    1777.23,
+    1777.62
+   ],
+   "frameCount": 7,
+   "sourceHeight": 1080,
+   "part": "城前广场"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/蒙特维斯/拼接/城镇石阶-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "蒙特维斯",
+   "type": "实景拼接",
+   "label": "城镇石阶",
+   "width": 2400,
+   "height": 832,
+   "source": "https://www.youtube.com/watch?v=W2geZPTIr2g",
+   "seconds": [
+    1909.17,
+    1910.32,
+    1910.7,
+    1911.47,
+    1911.85
+   ],
+   "frameCount": 5,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/遗种镇/拼接/城镇街道-720p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "遗种镇",
+   "type": "实景拼接",
+   "label": "城镇街道",
+   "width": 1521,
+   "height": 530,
+   "source": "https://www.youtube.com/watch?v=tWWKd-2x2nI",
+   "seconds": [
+    1137.63,
+    1143.0,
+    1144.53,
+    1145.68
+   ],
+   "frameCount": 4,
+   "sourceHeight": 720
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/康宁湾/拼接/街区夜景-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "康宁湾",
+   "type": "实景拼接",
+   "label": "街区夜景",
+   "width": 2716,
+   "height": 964,
+   "source": "https://www.youtube.com/watch?v=llCUzGRUaZI",
+   "seconds": [
+    1847.07,
+    1847.45,
+    1847.83,
+    1848.22,
+    1848.6,
+    1848.98
+   ],
+   "frameCount": 6,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/克拉克雷吉/拼接/山城夜街-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "克拉克雷吉",
+   "type": "实景拼接",
+   "label": "山城夜街",
+   "width": 2447,
+   "height": 956,
+   "source": "https://www.youtube.com/watch?v=lLRgFdoShvo",
+   "seconds": [
+    2582.83,
+    2583.6,
+    2583.98,
+    2584.37,
+    2584.75,
+    2585.13
+   ],
+   "frameCount": 6,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/兽人村/拼接/村落夕照-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "兽人村",
+   "type": "实景拼接",
+   "label": "村落夕照",
+   "width": 2146,
+   "height": 775,
+   "source": "https://www.youtube.com/watch?v=R5ncUGQnC-s",
+   "seconds": [
+    33.0,
+    42.58,
+    52.55,
+    52.93
+   ],
+   "frameCount": 4,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/凛芬镇/拼接/雪中街市-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "凛芬镇",
+   "type": "实景拼接",
+   "label": "雪中街市",
+   "width": 3172,
+   "height": 867,
+   "source": "https://www.youtube.com/watch?v=tvBxTB1iuIQ",
+   "seconds": [
+    1752.98,
+    1753.75,
+    1754.13,
+    1754.52,
+    1755.28,
+    1755.67,
+    1756.05,
+    1763.72
+   ],
+   "frameCount": 8,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/卡纳尔布来因/拼接/运河码头-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "卡纳尔布来因",
+   "type": "实景拼接",
+   "label": "运河码头",
+   "width": 3061,
+   "height": 966,
+   "source": "https://www.youtube.com/watch?v=9BDjeVIPJoM",
+   "seconds": [
+    594.3,
+    616.92,
+    618.07,
+    618.83,
+    619.6,
+    620.37,
+    621.13,
+    621.9,
+    622.67,
+    628.8
+   ],
+   "frameCount": 10,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/塞伊/拼接/夜间街道-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "塞伊",
+   "type": "实景拼接",
+   "label": "夜间街道",
+   "width": 2604,
+   "height": 891,
+   "source": "https://www.youtube.com/watch?v=-3BPwp5pZaY",
+   "seconds": [
+    2171.37,
+    2172.13,
+    2172.52,
+    2172.9,
+    2173.28,
+    2174.05
+   ],
+   "frameCount": 6,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/威尔格罗布/拼接/石阶与街市-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "威尔格罗布",
+   "type": "实景拼接",
+   "label": "石阶与街市",
+   "width": 3134,
+   "height": 1084,
+   "source": "https://www.youtube.com/watch?v=NUfPqhw1iXo",
+   "seconds": [
+    2316.58,
+    2317.35,
+    2317.73,
+    2318.12,
+    2318.5,
+    2319.27,
+    2319.65
+   ],
+   "frameCount": 7,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库罗普提尔/拼接/村中街区-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "库罗普提尔",
+   "type": "实景拼接",
+   "label": "村中街区",
+   "width": 2047,
+   "height": 894,
+   "source": "https://www.youtube.com/watch?v=nMsL-dzoRds",
+   "seconds": [
+    1484.28,
+    1513.8,
+    1515.33,
+    1515.72,
+    1517.25,
+    1517.63
+   ],
+   "frameCount": 6,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗拉姆教堂村/拼接/村中主街-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "弗拉姆教堂村",
+   "type": "实景拼接",
+   "label": "村中主街",
+   "width": 2541,
+   "height": 954,
+   "source": "https://www.youtube.com/watch?v=XjrUYeWH8Kw",
+   "seconds": [
+    1437.55,
+    1437.93,
+    1439.47,
+    1439.85,
+    1457.87
+   ],
+   "frameCount": 5,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/拼接/积雪院落-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "type": "实景拼接",
+   "label": "积雪院落",
+   "width": 1710,
+   "height": 976,
+   "source": "https://www.youtube.com/watch?v=pg-vzBoNUCc",
+   "seconds": [
+    886.13,
+    888.05,
+    918.72
+   ],
+   "frameCount": 3,
+   "sourceHeight": 1080,
+   "part": "院子"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/拼接/雪中城街-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "斯托姆黑伊鲁",
+   "type": "实景拼接",
+   "label": "雪中城街",
+   "width": 2193,
+   "height": 815,
+   "source": "https://www.youtube.com/watch?v=anHyRBBeiC0",
+   "seconds": [
+    249.52,
+    250.28,
+    251.05
+   ],
+   "frameCount": 3,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/无人村/拼接/林中村道-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "无人村",
+   "type": "实景拼接",
+   "label": "林中村道",
+   "width": 2166,
+   "height": 790,
+   "source": "https://www.youtube.com/watch?v=kQ8YqXdjyPI",
+   "seconds": [
+    87.88,
+    88.27,
+    88.65
+   ],
+   "frameCount": 3,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/无名之乡/拼接/林间聚落-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "无名之乡",
+   "type": "实景拼接",
+   "label": "林间聚落",
+   "width": 2056,
+   "height": 980,
+   "source": "https://www.youtube.com/watch?v=umjUxXEDu3k",
+   "seconds": [
+    2455.9,
+    2456.67,
+    2457.82,
+    2458.58,
+    2458.97
+   ],
+   "frameCount": 5,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/格拉维尔/拼接/街道与阶梯-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "格拉维尔",
+   "type": "实景拼接",
+   "label": "街道与阶梯",
+   "width": 2443,
+   "height": 807,
+   "source": "https://www.youtube.com/watch?v=unuW1Rcj3XY",
+   "seconds": [
+    633.68,
+    641.35,
+    650.93,
+    651.32,
+    652.08,
+    659.37
+   ],
+   "frameCount": 6,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/拼接/山城主街-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "实景拼接",
+   "label": "山城主街",
+   "width": 2216,
+   "height": 901,
+   "source": "https://www.youtube.com/watch?v=unuW1Rcj3XY",
+   "seconds": [
+    185.17,
+    195.9,
+    196.67,
+    197.43
+   ],
+   "frameCount": 4,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/欧兹拉修/拼接/城镇夜景-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "欧兹拉修",
+   "type": "实景拼接",
+   "label": "铸造所街区夜景",
+   "width": 2379,
+   "height": 801,
+   "source": "https://www.youtube.com/watch?v=nMsL-dzoRds",
+   "seconds": [
+    30.27,
+    30.65,
+    31.03,
+    31.42,
+    31.8
+   ],
+   "frameCount": 5,
+   "sourceHeight": 1080,
+   "part": "铸造所街区"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/洛克岛/拼接/街头夜景-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "洛克岛",
+   "type": "实景拼接",
+   "label": "街头夜景",
+   "width": 2735,
+   "height": 747,
+   "source": "https://www.youtube.com/watch?v=zb588PbzT5Y",
+   "seconds": [
+    475.68,
+    476.07,
+    476.45,
+    476.83,
+    477.22
+   ],
+   "frameCount": 5,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/轮敦/拼接/城中阶梯-1080p.png",
+   "game": "八方旅人Ⅱ",
+   "town": "轮敦",
+   "type": "实景拼接",
+   "label": "城中阶梯",
+   "width": 2277,
+   "height": 1295,
+   "source": "https://www.youtube.com/watch?v=99Q6edqLIy8",
+   "seconds": [
+    526.3,
+    527.45,
+    528.6,
+    529.37,
+    530.52,
+    532.05
+   ],
+   "frameCount": 6,
+   "sourceHeight": 1080
+  },
+  {
+   "file": "逸剑风云决/城镇/和璞山庄/街景/山庄前庭-1080p.jpg",
+   "game": "逸剑风云决",
+   "town": "和璞山庄",
+   "type": "实机截帧",
+   "label": "山庄前庭",
+   "width": 1920,
+   "height": 1080,
+   "source": "https://www.youtube.com/watch?v=RAqupECqISk",
+   "seconds": [
+    198
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/街景/日间街口-1080p.jpg",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实机截帧",
+   "label": "日间街口",
+   "width": 1920,
+   "height": 1080,
+   "source": "https://www.youtube.com/watch?v=UraMZ6tdv7o",
+   "seconds": [
+    92
+   ]
+  },
+  {
+   "file": "逸剑风云决/城镇/姑苏城/街景/雨夜街区-1080p.jpg",
+   "game": "逸剑风云决",
+   "town": "姑苏城",
+   "type": "实机截帧",
+   "label": "雨夜街区",
+   "width": 1920,
+   "height": 1080,
+   "source": "https://www.youtube.com/watch?v=AG7AQxrRReI",
+   "seconds": [
+    21116
+   ]
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/寒岬村/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "寒岬村",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 561,
+   "height": 367,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/fbaf19ceb062a4c41efc893c0e9ea3c9f1f9e8a7.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗里吉特监狱岛/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "弗里吉特监狱岛",
+   "type": "方位图",
+   "label": "停泊处路线",
+   "width": 689,
+   "height": 385,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/fbaf19ceb062a4c41efc893c0e9ea3c9f1f9e8a7.jpg",
+   "credit": "桀呐",
+   "part": "码头"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/凛芬镇/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "凛芬镇",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/b4abd6052cfa8578da550ca272ddfaaee33b468b.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/斯托姆黑伊鲁/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "斯托姆黑伊鲁",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 673,
+   "height": 579,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/3f2a55a987c329749ed436244e8791f1ab3dd471.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/弗拉姆教堂村/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "弗拉姆教堂村",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 938,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/050e1b27301f249f888bf9222ce822b424f71754.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/蒙特维斯/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "蒙特维斯",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 676,
+   "height": 537,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/0942c604c341a3a95b0a0bb02ba1b89bef5729bd.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/梅林希尔斯/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "梅林希尔斯",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/4f2246af7cd5606a2e2bb3f748f3065d29820bc9.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/新德尔斯塔/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "新德尔斯塔",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/c21bef8975e4e9341c1d07e36719052cba6c62b5.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/遗种镇/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "遗种镇",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 695,
+   "height": 382,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/d1c40cc239e9d8d9df215a3d429f4392becc24b8.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/轮敦/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "轮敦",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/530d1b14f69e0d67053870617343c1972e9dead3.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/兽人村/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "兽人村",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/b68457a1c86dd92cf7213a120b18d27e32597542.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/特洛甫霍普/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "特洛甫霍普",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/20b6171c3e6767793f7dcc31daba69ae1aeb6ff7.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/无名之乡/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "无名之乡",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/fb37bfe6b1c145ca76b03e311c7174a29f5c7478.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/欧兹拉修/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "欧兹拉修",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/46f6c438cecb5fe0e8cf6560bc406517ead17e6e.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/克拉克雷吉/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "克拉克雷吉",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/68bc8839601b672a01883fa18cec438a4a04968a.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/格拉维尔/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "格拉维尔",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/4cbd35e45198967d729164b3076c195b80389bcf.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库罗普提尔/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "库罗普提尔",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 698,
+   "height": 391,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/42361a9452d1a5bfac8138ef4b9d06d737c6b6c6.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/威尔格罗布/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "威尔格罗布",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 726,
+   "height": 618,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/b7fc5b18dddeadd51403af0ae9918bdc645d8716.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/汀巴雷因/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "汀巴雷因",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/4463863c3b80b0611b1b3db7132faaf06280f8e4.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/库国/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "库国",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/7b9bed9d741420a02e53a5b4b2193852c631dc14.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/塞伊/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "塞伊",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/564c82ad9c0ce71b9493a557a0cecd196cce4db5.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/卡纳尔布来因/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "卡纳尔布来因",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/8773d4f1c5afc866bcac1f61bf2e3aefa35347ac.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/康宁湾/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "康宁湾",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/3a6a083f8a90d454a113307b837e27ebaaad2bc6.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/城镇/洛克岛/方位图/城镇路线图.png",
+   "game": "八方旅人Ⅱ",
+   "town": "洛克岛",
+   "type": "方位图",
+   "label": "城镇路线",
+   "width": 1280,
+   "height": 720,
+   "source": "https://www.bilibili.com/opus/788598902476505095",
+   "imageURL": "https://i0.hdslb.com/bfs/article/11e654a5bac28e84cfb367565990dec2c54d96c1.jpg",
+   "credit": "桀呐",
+   "part": "城镇"
+  },
+  {
+   "file": "八方旅人Ⅱ/世界地图/索里苏提亚-城镇定位.jpg",
+   "game": "八方旅人Ⅱ",
+   "town": "世界地图",
+   "type": "世界地图",
+   "label": "索里苏提亚 · 26处城镇定位",
+   "width": 5632,
+   "height": 3168,
+   "source": "https://dandori.hateblo.jp/entry/oku_map",
+   "additionalSource": "https://www.vgover.com/topic/115434",
+   "baseSource": "https://github.com/Caleb518c/Octopath2InteractiveMap",
+   "markers": [
+    {
+     "name": "库罗普提尔",
+     "x": 1082,
+     "y": 1347
+    },
+    {
+     "name": "威尔格罗布",
+     "x": 649,
+     "y": 1700
+    },
+    {
+     "name": "汀巴雷因",
+     "x": 575,
+     "y": 1393
+    },
+    {
+     "name": "寒岬村",
+     "x": 3822,
+     "y": 975
+    },
+    {
+     "name": "凛芬镇",
+     "x": 4287,
+     "y": 930
+    },
+    {
+     "name": "斯托姆黑伊鲁",
+     "x": 4727,
+     "y": 850
+    },
+    {
+     "name": "弗里吉特监狱岛",
+     "x": 3550,
+     "y": 607
+    },
+    {
+     "name": "弗拉姆教堂村",
+     "x": 4072,
+     "y": 1455
+    },
+    {
+     "name": "蒙特维斯",
+     "x": 4812,
+     "y": 1283
+    },
+    {
+     "name": "梅林希尔斯",
+     "x": 4932,
+     "y": 1623
+    },
+    {
+     "name": "特洛甫霍普",
+     "x": 3321,
+     "y": 2584
+    },
+    {
+     "name": "无名之乡",
+     "x": 3170,
+     "y": 2397
+    },
+    {
+     "name": "库国",
+     "x": 585,
+     "y": 2589
+    },
+    {
+     "name": "沙粒之村的驿站",
+     "x": 1481,
+     "y": 1971
+    },
+    {
+     "name": "塞伊",
+     "x": 1158,
+     "y": 2326
+    },
+    {
+     "name": "康宁湾",
+     "x": 1724,
+     "y": 2482
+    },
+    {
+     "name": "卡纳尔布来因",
+     "x": 2161,
+     "y": 1901
+    },
+    {
+     "name": "洛克岛",
+     "x": 2380,
+     "y": 2437
+    },
+    {
+     "name": "新德尔斯塔",
+     "x": 3688,
+     "y": 1856
+    },
+    {
+     "name": "轮敦",
+     "x": 4315,
+     "y": 1679
+    },
+    {
+     "name": "遗种镇",
+     "x": 3559,
+     "y": 2219
+    },
+    {
+     "name": "克拉克雷吉",
+     "x": 1872,
+     "y": 952
+    },
+    {
+     "name": "格拉维尔",
+     "x": 2347,
+     "y": 513
+    },
+    {
+     "name": "欧兹拉修",
+     "x": 1597,
+     "y": 1573
+    },
+    {
+     "name": "无人村",
+     "x": 3856,
+     "y": 1339
+    },
+    {
+     "name": "兽人村",
+     "x": 2969,
+     "y": 2750
+    }
+   ]
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "临昌",
+   "type": "实景拼接",
+   "label": "入城街道",
+   "file": "逸剑风云决/城镇/临昌/拼接/入城街道.png",
+   "source": "https://www.bilibili.com/video/BV1qTQHBUEAQ/?p=37",
+   "width": 1376,
+   "height": 497,
+   "sourceHeight": 480,
+   "seconds": [
+    711.33,
+    711.87,
+    712.4,
+    712.93,
+    714.8,
+    715.33,
+    715.87,
+    717.2,
+    718.27
+   ],
+   "frameCount": 9
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "临昌",
+   "type": "实机截帧",
+   "label": "入城街道",
+   "file": "逸剑风云决/城镇/临昌/街景/入城街道.jpg",
+   "source": "https://www.bilibili.com/video/BV1qTQHBUEAQ/?p=37",
+   "width": 852,
+   "height": 480,
+   "seconds": [
+    711
+   ]
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "豫村",
+   "type": "实机截帧",
+   "label": "雪中村道",
+   "file": "逸剑风云决/城镇/豫村/街景/雪中村道.jpg",
+   "source": "https://www.bilibili.com/video/BV1zxExzKE4a/?p=189",
+   "width": 852,
+   "height": 480,
+   "seconds": [
+    19
+   ]
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "六扇门",
+   "type": "实机截帧",
+   "label": "府衙前庭",
+   "width": 608,
+   "height": 480,
+   "file": "逸剑风云决/城镇/六扇门/街景/府衙前庭.jpg",
+   "source": "https://www.bilibili.com/video/BV1RGqaYyEgx/?p=13",
+   "seconds": [
+    2895
+   ]
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "无名岛",
+   "type": "实机截帧",
+   "label": "驻地木栈台",
+   "width": 768,
+   "height": 480,
+   "file": "逸剑风云决/城镇/无名岛/街景/驻地木栈台.jpg",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=61",
+   "seconds": [
+    15.5
+   ],
+   "part": "码头"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "平康城",
+   "type": "实机截帧",
+   "label": "北街李府门前",
+   "width": 768,
+   "height": 480,
+   "file": "逸剑风云决/城镇/平康城/街景/北街李府门前.jpg",
+   "source": "https://www.bilibili.com/video/BV1hXHW6rEN1/?p=2",
+   "seconds": [
+    8
+   ],
+   "part": "北街"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天水城",
+   "type": "实机截帧",
+   "label": "外城街市",
+   "width": 852,
+   "height": 480,
+   "file": "逸剑风云决/城镇/天水城/街景/外城街市.jpg",
+   "source": "https://www.bilibili.com/video/BV1zxExzKE4a/?p=132",
+   "seconds": [
+    68
+   ],
+   "part": "外城"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "丐帮总舵",
+   "type": "实景原图",
+   "label": "总舵院内（图源带标注）",
+   "width": 689,
+   "height": 319,
+   "file": "逸剑风云决/城镇/丐帮总舵/街景/总舵院内（图源带标注）.jpg",
+   "source": "https://gl.ali213.net/html/2023-9/1161935.html",
+   "imageURL": "https://img1.ali213.net/glpic/2023/09/25/20230925115548983.jpg"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天山派遗址",
+   "type": "方位图",
+   "label": "遗址位置与相连山路",
+   "width": 1200,
+   "height": 800,
+   "file": "逸剑风云决/城镇/天山派遗址/方位图/天山派遗址与山路方位.png",
+   "source": "https://www.taptap.cn/moment/815622328988730359",
+   "credit": "临崖攻略组"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "洛村",
+   "type": "实景拼接",
+   "label": "村内菜畦",
+   "width": 896,
+   "height": 457,
+   "file": "逸剑风云决/城镇/洛村/拼接/村内菜畦-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=3",
+   "seconds": [
+    2.6,
+    3.8,
+    4.0,
+    4.5
+   ],
+   "sourceHeight": 480,
+   "frameCount": 4
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "津鲤村",
+   "type": "实景拼接",
+   "label": "村巷",
+   "width": 872,
+   "height": 438,
+   "file": "逸剑风云决/城镇/津鲤村/拼接/村巷-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=34",
+   "seconds": [
+    2.8,
+    3.1,
+    3.9
+   ],
+   "sourceHeight": 480,
+   "frameCount": 3
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "千陵渡",
+   "type": "实景拼接",
+   "label": "渡口聚落",
+   "width": 855,
+   "height": 424,
+   "file": "逸剑风云决/城镇/千陵渡/拼接/渡口聚落-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=37",
+   "seconds": [
+    0.0,
+    0.2,
+    0.3
+   ],
+   "sourceHeight": 480,
+   "frameCount": 3
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "双河村",
+   "type": "实景拼接",
+   "label": "村口街巷",
+   "width": 1116,
+   "height": 484,
+   "file": "逸剑风云决/城镇/双河村/拼接/村口街巷-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=46",
+   "seconds": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0,
+    1.2,
+    1.5
+   ],
+   "sourceHeight": 480,
+   "frameCount": 8
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天鸣村",
+   "type": "实景拼接",
+   "label": "聚落与民居",
+   "width": 741,
+   "height": 495,
+   "file": "逸剑风云决/城镇/天鸣村/拼接/聚落与民居-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=52",
+   "seconds": [
+    2.4,
+    2.6,
+    4.6
+   ],
+   "sourceHeight": 480,
+   "frameCount": 3
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "无名岛",
+   "type": "实景拼接",
+   "label": "海上栈台",
+   "width": 1680,
+   "height": 534,
+   "file": "逸剑风云决/城镇/无名岛/拼接/海上栈台-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=61",
+   "seconds": [
+    9.4,
+    10.3,
+    13.5,
+    14.2,
+    14.4,
+    14.6,
+    14.8,
+    15.0,
+    15.2,
+    15.4,
+    15.6,
+    15.8,
+    16.0,
+    16.2,
+    16.4,
+    16.5
+   ],
+   "sourceHeight": 480,
+   "frameCount": 16,
+   "part": "码头"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "玄火教",
+   "type": "实景拼接",
+   "label": "门前石阶",
+   "width": 852,
+   "height": 480,
+   "file": "逸剑风云决/城镇/玄火教/拼接/门前石阶-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=81",
+   "seconds": [
+    0.7,
+    2.2,
+    2.4,
+    2.5
+   ],
+   "sourceHeight": 480,
+   "frameCount": 4
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天水城",
+   "type": "实景拼接",
+   "label": "城内石街",
+   "width": 856,
+   "height": 471,
+   "file": "逸剑风云决/城镇/天水城/拼接/城内石街-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=85",
+   "seconds": [
+    12.8,
+    13.0,
+    13.2,
+    15.1
+   ],
+   "sourceHeight": 480,
+   "frameCount": 4
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "穷山据点",
+   "type": "实景拼接",
+   "label": "驻地街区",
+   "width": 1441,
+   "height": 518,
+   "file": "逸剑风云决/城镇/穷山据点/拼接/驻地街区-街段.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=93",
+   "seconds": [
+    2.9,
+    3.2,
+    3.4,
+    3.6,
+    3.8,
+    4.8,
+    5.0,
+    5.2,
+    5.4,
+    5.6,
+    6.0
+   ],
+   "sourceHeight": 480,
+   "frameCount": 11
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "豫村",
+   "type": "实景拼接",
+   "label": "雪中村巷",
+   "width": 1067,
+   "height": 493,
+   "file": "逸剑风云决/城镇/豫村/拼接/雪中村巷-街段.png",
+   "source": "https://www.bilibili.com/video/BV1zxExzKE4a/?p=189",
+   "seconds": [
+    19.6,
+    19.8,
+    20.0,
+    20.3,
+    44.3
+   ],
+   "sourceHeight": 480,
+   "frameCount": 5
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "平康城",
+   "type": "实景拼接",
+   "label": "北街李府前长巷",
+   "width": 873,
+   "height": 416,
+   "file": "逸剑风云决/城镇/平康城/拼接/北街李府前长巷-街段.png",
+   "source": "https://www.bilibili.com/video/BV1hXHW6rEN1/?p=2",
+   "seconds": [
+    3.2,
+    3.47,
+    4.0
+   ],
+   "sourceHeight": 480,
+   "frameCount": 3,
+   "part": "北街"
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "程家村",
+   "type": "实景拼接",
+   "label": "村舍与田间小路",
+   "width": 896,
+   "height": 437,
+   "file": "逸剑风云决/城镇/程家村/拼接/村舍与田间小路.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=38",
+   "seconds": [
+    0.0,
+    2.0,
+    2.27,
+    4.33
+   ],
+   "sourceHeight": 480,
+   "frameCount": 4
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "威远镖局",
+   "type": "实景拼接",
+   "label": "镖局外院",
+   "width": 851,
+   "height": 416,
+   "file": "逸剑风云决/城镇/威远镖局/拼接/镖局外院.png",
+   "source": "https://www.bilibili.com/video/BV1413Q6XEWC/?p=44",
+   "seconds": [
+    0.0,
+    0.2,
+    0.33
+   ],
+   "sourceHeight": 480,
+   "frameCount": 3
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "六扇门",
+   "type": "实景拼接",
+   "label": "衙署外院至练武场",
+   "width": 1648,
+   "height": 512,
+   "file": "逸剑风云决/城镇/六扇门/拼接/衙署外院至练武场.png",
+   "source": "https://www.bilibili.com/video/BV1RGqaYyEgx/?p=13",
+   "seconds": [
+    2867.73,
+    2875.0,
+    2876.2,
+    2876.93,
+    2877.2,
+    2877.47,
+    2877.87,
+    2878.2,
+    2878.53,
+    2878.8,
+    2879.07,
+    2879.47,
+    2881.8
+   ],
+   "sourceHeight": 480,
+   "frameCount": 13
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "丐帮总舵",
+   "type": "实景拼接",
+   "label": "总舵门楼至院内",
+   "width": 955,
+   "height": 840,
+   "file": "逸剑风云决/城镇/丐帮总舵/拼接/总舵门楼至院内.png",
+   "source": "https://www.bilibili.com/video/BV1RGqaYyEgx/?p=36",
+   "seconds": [
+    2409.93,
+    2410.93,
+    2411.8,
+    2412.33,
+    2412.73,
+    2413.6,
+    2413.8,
+    2414.0,
+    2414.2,
+    2414.4,
+    2419.27,
+    2419.4,
+    2419.53,
+    2419.67,
+    2419.93,
+    2420.47
+   ],
+   "sourceHeight": 480,
+   "frameCount": 16
+  },
+  {
+   "game": "逸剑风云决",
+   "town": "天山派遗址",
+   "type": "实景原图",
+   "label": "遗址入口一带的山麓墓碑",
+   "width": 1600,
+   "height": 900,
+   "file": "逸剑风云决/城镇/天山派遗址/街景/山麓墓碑与遗址入口.jpg",
+   "source": "https://www.arrpeegeez.com/2023/10/wandering-sword-walkthrough-part-32.html",
+   "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHIv4Fim-O3iE7eNjc_HO5DLntOIp-o8HhyJpl7Oxc5tTf7nk7GAOGPSYL1cYSe9uUvnaD6OzpJ-sZdWjlZ379_UBS-dJV4s4mj0sB39gTN7I0vrdRhyphenhyphenpdRPVb_WwQPv6s8ntUJLrhsLYfkUPgY2swT6GONL8NbLlvzcuaqzbZL5a0CltN7V0nLjnden8/s1600/20231004181350_1.jpg"
+  },
+  {
+   "file": "逸剑风云决/城镇/和璞山庄/拼接/山庄演武场.png",
+   "town": "和璞山庄",
+   "game": "逸剑风云决",
+   "type": "实景拼接",
+   "label": "演武场与门前石阶",
+   "width": 1871,
+   "height": 786,
+   "source": "https://www.youtube.com/watch?v=dM87F-ofgK4",
+   "seconds": [
+    1180
+   ],
+   "inputs": [
+    {
+     "source": "https://www.youtube.com/watch?v=dM87F-ofgK4",
+     "seconds": 1180
+    },
+    {
+     "source": "https://www.youtube.com/watch?v=dM87F-ofgK4",
+     "seconds": 1204
+    }
+   ],
+   "frameCount": 2,
+   "sourceHeight": 1080
+  }
+ ]
+}

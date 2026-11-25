@@ -25,6 +25,31 @@ def dimensions(path):
     return streams[0]["width"], streams[0]["height"]
 
 
+def projected_shadow(sprite_filters, cell_w, anchor_x, anchor_y, feet, vector):
+    """Flatten the pose alpha along the ground, then rotate it around the soles."""
+    dx, dy = vector
+    x, y = feet
+    length = max(2, round(math.hypot(dx, dy)))
+    breadth = max(2, round(cell_w * 0.72))
+    blur = max(0.8, breadth * 0.035)
+    radius = math.ceil(math.hypot(length, breadth) + 3 * blur)
+    side = 2 * radius
+    # The vertical flip puts the boots at the start of the projected silhouette.
+    pad_x = radius - round(breadth * anchor_x)
+    pad_y = radius - round(length * (1 - anchor_y))
+    angle = -math.atan2(dx, dy)
+    return [
+        f"[1:v]{sprite_filters}format=rgba,alphaextract,vflip,"
+        f"scale={breadth}:{length}:flags=area,format=gray,"
+        "geq=lum='lum(X,Y)*(0.46-0.18*Y/H)',"
+        f"pad={side}:{side}:{pad_x}:{pad_y}:color=black,"
+        f"rotate={angle}:fillcolor=black,gblur=sigma={blur}[castmask]",
+        f"color=c=0x211c28:s={side}x{side}:r=1,format=rgb24[ink]",
+        "[ink][castmask]alphamerge[castshadow]",
+        f"[plate][castshadow]overlay={x-radius}:{y-radius}:format=rgb[litground]",
+    ]
+
+
 def render(args):
     width, height = dimensions(args.plate)
     if args.foreground and dimensions(args.foreground) != (width, height):
@@ -109,10 +134,16 @@ def render(args):
     shadow_scale = cell_h / 54 if args.sprite else scale
     shadow_w = max(2, 2 * round(radius * shadow_scale / 2))
     shadow_h = max(2, 2 * round(58 * shadow_scale / 2))
+    ground_input = "plate"
+    cast_vector = getattr(args, "cast_shadow", None)
+    if cast_vector and any(cast_vector):
+        filters.extend(projected_shadow(crop + flip, cell_w, anchor_x, anchor_y,
+                                        args.feet, cast_vector))
+        ground_input = "litground"
     filters.extend([
         f"color=s={2 * radius}x116:c=black:r=1,format=rgba,"
         f"geq=r=19:g=16:b=25:a='{local_alpha}',scale={shadow_w}:{shadow_h}[contact]",
-        f"[plate][contact]overlay={x-shadow_w//2}:{y-shadow_h//2}:format=rgb[ground]",
+        f"[{ground_input}][contact]overlay={x-shadow_w//2}:{y-shadow_h//2}:format=rgb[ground]",
         f"[ground][actor]overlay={left}:{top}:format=rgb[cast]",
     ])
     if args.foreground:
@@ -151,6 +182,8 @@ def main():
     p.add_argument("--light-from", choices=["left", "right"], default="left", help="受光方向（画面坐标）")
     p.add_argument("--soften", type=float, default=0, help="远景人物的柔焦半径，单位为成图像素")
     p.add_argument("--shadow-x", type=int, default=0, help="软影的左右偏移，随角色像素格一起缩放")
+    p.add_argument("--cast-shadow", nargs=2, type=int, metavar=("DX", "DY"),
+                   help="强方向光下的平地投影向量，单位为成图像素，向右、向下为正")
     p.add_argument("--foreground", type=Path, help="可选同尺寸 RGBA 遮挡层")
     args = p.parse_args()
     npc_options = (args.sprite, args.anchor, args.frame_height)

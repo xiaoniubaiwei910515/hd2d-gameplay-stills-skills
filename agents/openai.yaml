@@ -1,4 +1,4 @@
 interface:
   display_name: "HD2D实机图工作流"
-  short_description: "从双游戏图库按地貌和场所选参考，生成同机位实机风格图并按场景安排人物"
+  short_description: "默认按四地定稿生成武侠跑图，校准人物与光向，明确指定西幻时分流"
   default_prompt: "用 $hd2d-gameplay-stills 生成一处雪山驿站的昼暮夜效果图，按场景活动决定谁入镜。"

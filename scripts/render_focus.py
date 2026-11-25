@@ -68,6 +68,38 @@ def render(source, amount, radius):
     return result
 
 
+def render_occluder(source, amount, radius, coverage, weight):
+    """Keep foreground colors out of defocused background seen through small gaps."""
+    rgb = np.asarray(source, dtype=np.float32)
+    visible = 1 - coverage
+    # Estimate only the hidden background next to the silhouette. Pixels deep
+    # inside the solid object are covered again by its opaque foreground.
+    background_samples = Image.fromarray(np.uint8(np.rint(rgb * visible[:, :, None])))
+    visibility = Image.fromarray(np.uint8(np.rint(255 * visible)))
+    spread = ImageFilter.GaussianBlur(max(radius * 1.5, 1))
+    nearby = np.asarray(visibility.filter(spread), dtype=np.float32) / 255
+    colors = np.asarray(background_samples.filter(spread), dtype=np.float32)
+    estimate = np.divide(colors, nearby[:, :, None], out=rgb.copy(),
+                         where=nearby[:, :, None] > 1 / 255)
+    covered = coverage[:, :, None]
+    background = rgb * (1 - covered) + np.clip(estimate, 0, 255) * covered
+    back = render(Image.fromarray(np.uint8(np.rint(background))), amount, radius)
+
+    # Blur premultiplied foreground color and alpha together. A gap narrower
+    # than the blur naturally closes as the foreground becomes more defocused.
+    alpha = Image.fromarray(np.uint8(np.rint(coverage * 255)))
+    ink = Image.fromarray(np.uint8(np.rint(rgb * covered)))
+    if weight:
+        filt = ImageFilter.GaussianBlur(radius * weight)
+        alpha = alpha.filter(filt)
+        ink = ink.filter(filt)
+    retained = 1 - np.asarray(alpha, dtype=np.float32)[:, :, None] / 255
+    color = np.asarray(ink, dtype=np.float32) + np.asarray(back) * retained
+    if weight == 0:
+        color[amount == 0] = rgb[amount == 0]
+    return Image.fromarray(np.uint8(np.rint(np.clip(color, 0, 255))))
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source", type=Path, help="正常开发参考 PNG")
@@ -80,8 +112,19 @@ def main():
     radii = parser.add_mutually_exclusive_group()
     radii.add_argument("--radius", type=float, help="最大模糊半径，单位为最终画幅像素；轻景深默认 900 高时 4.4")
     radii.add_argument("--strength", type=float, help="复现旧版强度倍率，旧版默认值为 1")
+    parser.add_argument("--occluder", nargs=2, metavar=("MASK", "WEIGHT"),
+                        help="需要分层模糊的同距离遮挡物轮廓及其虚化权重，例如镂空屏风")
     args = parser.parse_args()
-    if args.output.resolve() in {p.resolve() for p in (args.source, args.matte, args.focus_map) if p}:
+    occluder_path = None
+    if args.occluder:
+        occluder_path = Path(args.occluder[0])
+        try:
+            occluder_weight = float(args.occluder[1])
+        except ValueError:
+            parser.error("遮挡物虚化权重须为数值")
+        if not 0 <= occluder_weight <= 1:
+            parser.error("遮挡物虚化权重须在 0 至 1 之间")
+    if args.output.resolve() in {p.resolve() for p in (args.source, args.matte, args.focus_map, occluder_path) if p}:
         parser.error("输出与输入需使用不同文件")
     if args.focus_map and args.center:
         parser.error("使用焦带图时请在图中确定焦点")
@@ -111,7 +154,14 @@ def main():
     radius = args.radius
     if radius is None:
         radius = source.height * 0.016 * (args.strength or 1) if legacy else 4.4 * source.height / 900
-    result = render(source, amount, radius)
+    if occluder_path:
+        try:
+            coverage = read_focus_map(occluder_path, source.size)
+        except (ValueError, OSError) as error:
+            parser.error(str(error))
+        result = render_occluder(source, amount, radius, coverage, occluder_weight)
+    else:
+        result = render(source, amount, radius)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with NamedTemporaryFile(dir=args.output.parent, suffix=".png", delete=False) as tmp:
         temp_path = Path(tmp.name)

@@ -39,6 +39,7 @@ python3 scripts/place_yuwen.py 'assets/渡口·正午无人底图.png' 'renders/
 | 将所需人物放回场景 | [渡口实例的站位与合成命令](references/柳荫渡口复盘.md) · [透明人物和底图](assets/) |
 | 对照已生成效果图的光照与景深 | [工作流六景总览](references/visuals/昼暮夜六景.jpg) · [早期六景补光词](references/六景原始补光词.txt) |
 | 校准新武侠场景的用光与轻景深 | [鼓楼市街定稿、焦带图与复现命令](examples/鼓楼市街/用光与焦带.md) |
+| 将景深应用到新机位的垂帘、屏风、枝叶等遮挡物 | [按物体划分焦带与验图](SKILL.md#按物体划分焦带) |
 
 ## 工作流维护
 

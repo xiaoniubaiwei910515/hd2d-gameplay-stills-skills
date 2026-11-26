@@ -4,6 +4,15 @@ import argparse
 import math
 
 
+PLAYER_TOLERANCE = 0.05
+PROP_TOLERANCE = 0.12
+
+
+def compare_ratio(observed, expected, limit):
+    deviation = observed / expected - 1
+    return abs(deviation) <= limit + 1e-9, deviation
+
+
 def positive(value):
     number = float(value)
     if not math.isfinite(number) or number <= 0:
@@ -25,13 +34,12 @@ def main():
     passed = True
     for index, sample in enumerate(args.sample, 1):
         print(f"单屏样本 {index}")
-        lengths = [("角色占屏高", reference[1] / reference[0], sample[1] / sample[0], 0.05)]
+        lengths = [("角色占屏高", reference[1] / reference[0], sample[1] / sample[0], PLAYER_TOLERANCE)]
         for n in range(2, len(reference)):
             lengths.append((f"参照物 {n-1} / 人高", reference[n] / reference[1],
-                            sample[n] / sample[1], 0.12))
+                            sample[n] / sample[1], PROP_TOLERANCE))
         for label, expected, observed, limit in lengths:
-            deviation = observed / expected - 1
-            within = abs(deviation) <= limit + 1e-9
+            within, deviation = compare_ratio(observed, expected, limit)
             passed = passed and within
             print(f"  {label}  基准 {expected:.3f}  实测 {observed:.3f}  "
                   f"偏差 {deviation:+.1%}  {'通过' if within else '需复核'}")
